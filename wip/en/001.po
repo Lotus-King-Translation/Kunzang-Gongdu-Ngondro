@@ -152,7 +152,7 @@ msgstr ""
 
 msgctxt "ea42bcb20c194a11a1d2422b274faa35"
 msgid "སྲིད་ གསུམ་ མི་རྟག་ སྟོན་ཀ་␣འི་ སྤྲིན་ དང་ འདྲ །།"
-msgstr ""
+msgstr "The impermanence of the three existences is like autumn clouds."
 
 msgctxt "e6796dd414d14ac8b523be181fb5debd"
 msgid "འགྲོ་བ་␣འི་ སྐྱེ་འཆི་ གར་ ལ་ བལྟ་ དང་ མཚུངས །།"
