@@ -116,6 +116,8 @@ msgid ""
 "བླ་མ་ འོད་ དུ་ ཞུ་ ནས་ རང་ ལ་ ཐིམ་པ་␣ར་ བསམ་ ཞིང་ རང་བབས་ སུ་ ཀློད་ དེ་ "
 "འཇོག་ གོ"
 msgstr ""
+"Lama dissolves into light, which then dissolves into me. [With that], rest "
+"relaxed in a self-settled field of mind. "
 
 msgctxt "69d28230f8a54a77a2d49a29e7ee7296"
 msgid "། གཉིས་པ་ སྐབས་དོན་ སྔོན་འགྲོ་ དངོས་ ལ །"
