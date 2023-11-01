@@ -144,7 +144,7 @@ msgstr ""
 
 msgctxt "0ba2fd47d4164cd79f2e8ddbc3482093"
 msgid "གལ་ཏེ་ འདི་ ལ་ ཕན་པ་ མ་ བསྒྲུབ་ ན །།"
-msgstr ""
+msgstr "If with this, the benefit is not accomplished,"
 
 msgctxt "3b612b7ca5ed45379d6ce4875b23a0a0"
 msgid "ཕྱིས་ འདི་ ཡང་དག་ འབྱོར་པ་␣ར་ ག་ལ་ འགྱུར །།"
