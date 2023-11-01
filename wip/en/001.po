@@ -369,7 +369,7 @@ msgstr ""
 
 msgctxt "381982c9d28f431ea161e08bf2c52f5f"
 msgid "ན་མོ་␣༔  སྣང་བ་ མ་ བཀོད་ དབྱིངས་ ཀྱི་ ནང་␣༔"
-msgstr ""
+msgstr "NAMO Within the expanse without the array of appearances,"
 
 msgctxt "be5e73226ebf4105b67b0b8c409779cf"
 msgid "རིག་པ་ ཡེ་ཤེས་ སྐུ་གསུམ་ རྫོགས་␣༔"
