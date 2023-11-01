@@ -121,7 +121,7 @@ msgstr ""
 
 msgctxt "69d28230f8a54a77a2d49a29e7ee7296"
 msgid "། གཉིས་པ་ སྐབས་དོན་ སྔོན་འགྲོ་ དངོས་ ལ །"
-msgstr ""
+msgstr "Second, སྐབས་དོན་ the actual foundational practice."
 
 msgctxt "7fe40ae736594d7696e6c2ad54528e4e"
 msgid "ཐུན་མོང་ དང །  ཁྱད་པར་ གཉིས་ ཀྱི །"
