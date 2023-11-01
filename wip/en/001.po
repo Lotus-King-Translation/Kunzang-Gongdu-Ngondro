@@ -373,7 +373,7 @@ msgstr ""
 
 msgctxt "be5e73226ebf4105b67b0b8c409779cf"
 msgid "རིག་པ་ ཡེ་ཤེས་ སྐུ་གསུམ་ རྫོགས་␣༔"
-msgstr ""
+msgstr "Rigpa, timeless wisdom complete with three kayas."
 
 msgctxt "421b8521a2434d6b8c24eecab1b3affa"
 msgid "གཞོན་ནུ་ དབྱིངས་ ཀྱི་ བུམ་སྐུ་ ལ་␣༔"
