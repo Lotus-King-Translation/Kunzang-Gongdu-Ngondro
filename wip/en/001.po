@@ -104,6 +104,8 @@ msgid ""
 "ཚེ་ འདི་ཉིད་ ལ་ འོད་གསལ་ རྫོགས་པ་ ཆེན་པོ་␣འི་ ལམ་མཆོག་ མཐ་␣ར་ ཕྱིན་པ་␣ར་ "
 "བྱིན་ གྱིས་ བརླབ་ ཏུ་ གསོལ །།"
 msgstr ""
+"Grant the blessing so in this life itself, the excellent path of clear light"
+" great completion will be concluded."
 
 msgctxt "de211e72c024465cb112c3746fcd9ef0"
 msgid "ཞེས་ གསོལ་བ་ བཏབ་ མཐ་␣ར །"
