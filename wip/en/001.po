@@ -381,7 +381,7 @@ msgstr "In the vase kaya of youthful expanse,"
 
 msgctxt "ade66db1f7264ca5a8ee6f05779abcd3"
 msgid "བདག་ འཛིན་ བྲལ་བ་␣ར་ སྐྱབས་ སུ་ མཆི་␣༔"
-msgstr ""
+msgstr "I go to refuge, released from eco-clinging."
 
 msgctxt "1600ef8fe99745a2850615d5ee216f85"
 msgid ""
