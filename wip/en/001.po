@@ -85,6 +85,7 @@ msgstr ""
 msgctxt "22583812a8bd4440ad4aee0f24c22858"
 msgid "དུས་གསུམ་ སངས་རྒྱས་ ཐམས་ཅད་ ཀྱི་ ངོ་བོ་ བླ་མ་ རིན་པོ་ཆེ་ མཁྱེན །།"
 msgstr ""
+"The essence of all the buddhas of the three times, བླ་མ་རིན་པོ་ཆེ་མཁྱེན།།"
 
 msgctxt "1f807f9cbe64448c95668c21bc1703bb"
 msgid "བདག་ གི་ རྒྱུད་ སྨིན་ ཅིང་ གྲོལ་བ་␣ར་ བྱིན་ གྱིས་ བརླབ་ དུ་ གསོལ །།"
