@@ -373,11 +373,11 @@ msgstr ""
 
 msgctxt "be5e73226ebf4105b67b0b8c409779cf"
 msgid "རིག་པ་ ཡེ་ཤེས་ སྐུ་གསུམ་ རྫོགས་␣༔"
-msgstr "In the vase kaya of youthful expanse,"
+msgstr ""
 
 msgctxt "421b8521a2434d6b8c24eecab1b3affa"
 msgid "གཞོན་ནུ་ དབྱིངས་ ཀྱི་ བུམ་སྐུ་ ལ་␣༔"
-msgstr ""
+msgstr "In the vase kaya of youthful expanse,"
 
 msgctxt "ade66db1f7264ca5a8ee6f05779abcd3"
 msgid "བདག་ འཛིན་ བྲལ་བ་␣ར་ སྐྱབས་ སུ་ མཆི་␣༔"
