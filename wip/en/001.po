@@ -62,7 +62,7 @@ msgstr ""
 
 msgctxt "7ad6bff0b4d8486b8192de14bf150cae"
 msgid "མོས་གུས་ གདུང་ཤུགས་ དྲག་པོ་␣ས །"
-msgstr ""
+msgstr "Through powerful yearning devotion,"
 
 msgctxt "05e9a64cb38d49fca93475510ae76bb4"
 msgid "དཔལ་ལྡན་ རྩ་བ་␣འི་ བླ་མ་ རིན་པོ་ཆེ །།"
