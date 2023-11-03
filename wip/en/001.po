@@ -24,7 +24,7 @@ msgstr "OM SVASTI "
 
 msgctxt "f18b58cfa5214dfeab7eb0c856d8ab95"
 msgid "། རབ་འབྱམས་ སྐྱབས་ ཀུན་ འདུས་པ་␣འི་ བདག"
-msgstr ""
+msgstr "Entirety of all-encompassing refuges བདག"
 
 msgctxt "d01ecdd51ed447dda551b18ebd393843"
 msgid "། དྲིན་ཅན་ བླ་མ་␣ར་ གུས་ བཏུད་ ནས །"
