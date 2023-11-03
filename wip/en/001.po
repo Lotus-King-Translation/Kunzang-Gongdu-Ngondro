@@ -262,6 +262,7 @@ msgstr ""
 msgctxt "0399ec8a3c1c4802b4f5348247b7f9a3"
 msgid "གཉིས་པ་ ཁྱད་པར་ གྱི་ སྔོན་འགྲོ་ ལ་ ལྔ་ ལ་␣ས །"
 msgstr ""
+"Second, in the uncommon foundational practical there are five [sections]."
 
 msgctxt "7a7c40ae80d34d21a37c0e13d65e7a15"
 msgid "དང་པོ་ ལམ་ གྱི་ འཇུག་ སྒོ་ སྐྱབས་ སུ་ འགྲོ་བ་ ནི །"
