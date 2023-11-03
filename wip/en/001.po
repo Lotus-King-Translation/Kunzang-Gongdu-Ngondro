@@ -295,7 +295,7 @@ msgstr "the space is completely filled"
 
 msgctxt "69dd557c70ce4ba3bf0498c51b475612"
 msgid "དབུས་ ཀྱི་ ཡལ་ག་␣ར་ རིན་ཆེན་ སེང་གེ་␣འི་ ཁྲི །།"
-msgstr ""
+msgstr "On the center branch, there is a precious lion throne."
 
 msgctxt "976d67a2c67a4ca6afe7e9e684830aac"
 msgid "སྣ་ཚོགས་ པདྨ་ ཉི་ཟླ་␣འི་ གདན་ སྟེང་ དུ །།"
