@@ -184,7 +184,7 @@ msgstr ""
 
 msgctxt "a7e8e4d338a7425fba6dc85ee746159e"
 msgid "ལ་␣ས་ ནི་ གྲིབ་མ་ བཞིན་ དུ་ རྗེས་སུ་ འབྲང་ །།"
-msgstr ""
+msgstr "This karma follows like a shadow. "
 
 msgctxt "034eaa6cfc9f4e0eb68097b4f76585c4"
 msgid "སྲེད་ སྲིད་ མ་རིག་ དབང་ གིས་ སྐྱེ་བོ་ རྣམས །།"
