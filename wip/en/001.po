@@ -57,6 +57,8 @@ msgstr "First,"
 msgctxt "530255c201e2404f969577f0f167cad5"
 msgid "སྤྱི་བོ་␣ར་ རྩ་བ་␣འི་ བླ་མ་ དགྱེས་ བཞིན་ དུ་ བཞུགས་པ་␣ར་ བསྒོམ་ ལ །"
 msgstr ""
+"Above the crown of the head is root lama, delighted. Cultivate by remaining "
+"with this."
 
 msgctxt "7ad6bff0b4d8486b8192de14bf150cae"
 msgid "མོས་གུས་ གདུང་ཤུགས་ དྲག་པོ་␣ས །"
