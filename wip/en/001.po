@@ -251,7 +251,7 @@ msgstr "Attain the throne of superior ease and great equanimity"
 
 msgctxt "0a25e70ccdc040c98d0bc046e4bcdd76"
 msgid "ཟབ་ ལམ་ ཉམས་ལེན་ མཐའ་ རུ་ དབྱུང་བ་␣ར་ བགྱི །།"
-msgstr ""
+msgstr "profound path practice, draw to its conclusion "
 
 msgctxt "a24fc387f904438b8679711b0acb35f8"
 msgid ""
