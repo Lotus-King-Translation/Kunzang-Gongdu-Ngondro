@@ -230,7 +230,7 @@ msgstr ""
 
 msgctxt "f8583c5d5f0949fa85ed6b4cc2320831"
 msgid "མཁའ་ཁྱབ་ འགྲོ་ ཀུན་བདག་ གི་ ཕ་མ་ སྟེ །།"
-msgstr ""
+msgstr "Self and all others, migrators pervading space, fathers and mothers."
 
 msgctxt "588ae0283bfb4eb293eecb904a59d5fa"
 msgid "བདེ་བ་ འདོད་ ཀྱང་ སྡུག་བསྔལ་ འབའ་ཞིག་ སྒྲུབ །།"
