@@ -32,7 +32,7 @@ msgstr "To lama of great kindness I respectfully bow down."
 
 msgctxt "b6830dc4c8dc41e3ad779b56bba84770"
 msgid "། ཀུན་བཟང་ དགོངས་པ་ ཀུན་ འདུས་ ཀྱི །"
-msgstr ""
+msgstr "Samantabhadra's enlightened intent's"
 
 msgctxt "554dc93ec8da4ef3b7a6fc08d10da639"
 msgid "། སྔོན་འགྲོ་␣འི་ ངག་འདོན་ འཇུག་ བདེ་␣ར་ སྤྲོ །།"
