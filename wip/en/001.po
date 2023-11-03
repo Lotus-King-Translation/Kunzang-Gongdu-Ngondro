@@ -36,7 +36,7 @@ msgstr ""
 
 msgctxt "554dc93ec8da4ef3b7a6fc08d10da639"
 msgid "། སྔོན་འགྲོ་␣འི་ ངག་འདོན་ འཇུག་ བདེ་␣ར་ སྤྲོ །།"
-msgstr ""
+msgstr "foundational practice  ངག་འདོན་ འཇུག་ བདེ་␣ར་ སྤྲོ"
 
 msgctxt "9b508b8e67b14a37a1cb197a0b67ec38"
 msgid "འདི་ ལ་ གཉིས །"
