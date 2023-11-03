@@ -279,7 +279,7 @@ msgstr "The location where I am is a completely pure place."
 
 msgctxt "eeb05fb6777a479da8e32755042fa872"
 msgid "དག་པ་␣འི་ ཞིང་ཁམས་ མཚན་ཉིད་ ཡོངས་རྫོགས་ དབུས །།"
-msgstr ""
+msgstr "Faultless pure field, wholly complete characteristics, དབུས "
 
 msgctxt "36a2534e46ca4cb98ea4fbfe7d9ee2a7"
 msgid "དཔག་བསམ་ སྡོང་པོ་ ཡལ་ག་ ལྔ་ལྡན་པ །།"
