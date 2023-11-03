@@ -243,6 +243,7 @@ msgstr ""
 msgctxt "e140a457723042b39f4d51141ad84462"
 msgid "འདི་ རྣམས་ བདེ་ལྡན་ སྡུག་བསྔལ་ བྲལ་བ་ དང །།"
 msgstr ""
+"All these [fathers and mothers], to have ease, and release from suffering."
 
 msgctxt "0c6a0cebc0e84b158a4bf5597698ccc2"
 msgid "འཕགས་པ་␣འི་ བདེ་ ཐོབ་ བཏང་སྙོམས་ ཆེ་␣ར་ འགོད་ ཕྱིར །།"
