@@ -194,7 +194,7 @@ msgstr ""
 
 msgctxt "d0d614b32f094a74a7a1c7e3cc88d42f"
 msgid "མི་ དང་ ལྷ་ དང་ ངན་སོང་ རྣམ་ གསུམ་པོ །།"
-msgstr "The three, humans, gods, and gone bad ones,"
+msgstr "The three, humans, gods, and gone bad [migration] ones,"
 
 msgctxt "bd7cbcea346b43a0b14213c8ad522513"
 msgid "འགྲོ་བ་ ལྔ་པོ་ དག་ ཏུ་ མི་ མཁས་ འཁོར །།"
