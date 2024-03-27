@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Mikko Kotila, 2023
+# Mikko Kotila, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Mikko Kotila, 2023\n"
+"Last-Translator: Mikko Kotila, 2024\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/178491/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -87,7 +87,8 @@ msgstr "With that"
 msgctxt "22583812a8bd4440ad4aee0f24c22858"
 msgid "དུས་གསུམ་ སངས་རྒྱས་ ཐམས་ཅད་ ཀྱི་ ངོ་བོ་ བླ་མ་ རིན་པོ་ཆེ་ མཁྱེན །།"
 msgstr ""
-"The essence of all the buddhas of the three times, བླ་མ་རིན་པོ་ཆེ་མཁྱེན།།"
+"Precious lama, the essence of all the buddhas of the three times, consider "
+"[me]."
 
 msgctxt "1f807f9cbe64448c95668c21bc1703bb"
 msgid "བདག་ གི་ རྒྱུད་ སྨིན་ ཅིང་ གྲོལ་བ་␣ར་ བྱིན་ གྱིས་ བརླབ་ དུ་ གསོལ །།"
