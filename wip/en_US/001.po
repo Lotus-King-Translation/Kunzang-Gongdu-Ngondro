@@ -1054,7 +1054,7 @@ msgstr "Bless me with the increase of visions. "
 
 msgctxt "ce61cb97782d40d48c602fb27362dd0d"
 msgid "སྒྲོན་ བཞི་ ལོངས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
-msgstr ""
+msgstr "Bless me to experience the four lamps. "
 
 msgctxt "da24e7ff5493424c92eb4c51ce595593"
 msgid "སྣང་ བཞི་ འཆར་བ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
