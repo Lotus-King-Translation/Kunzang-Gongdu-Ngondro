@@ -220,7 +220,7 @@ msgstr "they remain ignorant of the way out of existence, "
 
 msgctxt "2da9aa46b8034e6a9fcaa5eaeef59a75"
 msgid "བུམ་པ་␣ར་ ཆུད་པ་␣འི་ བུང་བ་ འཁོར་བ་ བཞིན །།"
-msgstr ""
+msgstr "like bees circling around inside of a bottle. "
 
 msgctxt "364671a14f554695bd3e9b551dabe564"
 msgid ""
