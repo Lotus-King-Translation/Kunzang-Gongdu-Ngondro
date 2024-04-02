@@ -989,7 +989,7 @@ msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "6e6ac0d545d14191aa648f6c943e5ea1"
 msgid "ཀུན་བཟང་ ཐུགས་ བཅུད་ དགོངས་པ་ ཀུན་ འདུས་ དང་ །།"
-msgstr ""
+msgstr "The union of Samantabhadra's intentions, quintessence of his mind, "
 
 msgctxt "12a006c2ff5247ee8fdc73107c823bda"
 msgid "ཡི་དམ་ རྒྱལ་བ་ ཞི་ དང་ ཁྲོ་བོ་␣འི་ ཚོགས །།"
