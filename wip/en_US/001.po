@@ -556,7 +556,7 @@ msgstr "strikes all beings, purifying obscurations along with their causes. "
 
 msgctxt "40e990f412064746a717471fc191231a"
 msgid "སྣང་གྲགས་ ལྷ་ དང་ སྔགས་ ཀྱི་ རོལ་པ་␣ར་ གྱུར །།"
-msgstr ""
+msgstr "Appearance and sound become the play of deity and mantra. "
 
 msgctxt "3498604085ea4ccd8d76fd20dee1daa2"
 msgid "ཞེས་ དམིགས་ ལ །"
