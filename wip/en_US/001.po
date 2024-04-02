@@ -973,7 +973,7 @@ msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "7ef49089c508420c9798926161ceca79"
 msgid "རྒྱལ་སྲས་ འཇིགས་མེད་ ཚེ་དབང་ ནོར་བུ་␣འི་ དཔལ །།"
-msgstr ""
+msgstr "Glorious Jigme Tsewang Norbu, son of the victorious ones, "
 
 msgctxt "520e2c2c73dd467fb18176d5f8d4d5dd"
 msgid "རྡོ་རྗེ་ འཛིན་དབང་ དགེ་འདུན་ རྒྱ་མཚོ་␣འི་ དཔལ །།"
