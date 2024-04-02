@@ -666,11 +666,11 @@ msgstr "Again place the five heaps. "
 
 msgctxt "50b8c858cf72429482c055c93d3ee5a9"
 msgid "དབྱིངས་ ཀྱི་ དཀྱིལ་འཁོར་ རྣམ་པ་␣ར་ དག་པ་ རུ་␣༔"
-msgstr ""
+msgstr "In the utterly pure mandala of basic space "
 
 msgctxt "937c7efebd3d4236b395f6dba29027be"
 msgid "ཐིག་ལེ་ རང་ གསལ་ འོད་ ཀྱི་ ཚོམ་བུ་ བཀོད་␣༔"
-msgstr ""
+msgstr "the heaps of light of the self-luminous sphere are arrayed. "
 
 msgctxt "27aa1491342644eda398fd2e7844d35a"
 msgid "བླ་མ་ ལོངས་སྤྱོད་ རྫོགས་པ་␣འི་ སྐུ་ རྣམས་ ལ་␣༔"
