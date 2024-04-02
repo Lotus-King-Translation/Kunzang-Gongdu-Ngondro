@@ -518,6 +518,8 @@ msgstr ""
 msgctxt "83f38e181b92457abf759963ed4484bd"
 msgid "ཞི་ འཛུམ་ མཚན་དཔེ་␣འི་ རབ་ མཛེས་ རྡོ་ དྲིལ་ འཛིན །།"
 msgstr ""
+"He is smiling peacefully, resplendent in the marks and characteristics, "
+"holding bell and dorje, "
 
 msgctxt "c8cd46cfdf6e4168ac0983cb4cd7dc49"
 msgid "ལོངས་སྤྱོད་ ཆ་␣ས་ རྫོགས་ ཞབས་ ཟུང་ སེམས་ སྐྱིལ་ བཞུགས །།"
