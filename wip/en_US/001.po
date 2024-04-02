@@ -430,7 +430,7 @@ msgstr "and draws all beings without exception to the pureland. "
 
 msgctxt "d34323e73a9846af89e21f99a361fe85"
 msgid "སྐྱབས་ཡུལ་ ཐམས་ཅད་ བླ་མ་␣འི་ སྐུ་ ལ་ འདུས །།"
-msgstr ""
+msgstr "All the objects of refuge are gathered into the lama's body. "
 
 msgctxt "ede23be7787d46b6828f74a7ba47574a"
 msgid "བླ་མ་ འོད་ཞུ་ རང་ ཐིམ་ གཉིས་ མེད་ གྱུར །།"
