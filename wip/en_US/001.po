@@ -933,7 +933,7 @@ msgstr "sovereign Ngawang Kunzang Dorje, "
 
 msgctxt "a4790cbae4ae47a4abd18a31628d0908"
 msgid "ཀུན་བཟང་ འགྱུར་མེད་ མཆོག་ གྲུབ་ དཔལ་འབར་ ལ །།"
-msgstr ""
+msgstr "and Kunzang Gyurme Chokdrup Palbar, "
 
 msgctxt "cd41c70d0a7845e5baafcb206895d3aa"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
