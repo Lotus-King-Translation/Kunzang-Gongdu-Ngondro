@@ -814,7 +814,7 @@ msgstr "peaceful and wrathful ones, "
 
 msgctxt "e738a173c8f545d99c2cadd3c8b9f741"
 msgid "སངས་རྒྱས་ བྱང་སེམས་ དཔའ་བོ་ མཁའ་འགྲོ་ དང༌ །།"
-msgstr ""
+msgstr "buddhas, bodhisattvas, dakas and dakinis, "
 
 msgctxt "80be75b2e5414b6bb9f2108557ea3743"
 msgid "ཆོས་སྐྱོང་ ཚོགས་ ཀྱི་ སྤྲིན་ཕུང་ གཏིབ་ བཞིན་ བསྐོར །།"
