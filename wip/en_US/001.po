@@ -532,7 +532,7 @@ msgstr "HUNG is in the middle of a vajra on a lotus and moon in his heart. "
 
 msgctxt "686c81334ceb4478861eafd971fd96c0"
 msgid "ཡན་ལག་ བཞི་ ལ་ སྙིང་པོ་ འབྲུ་ དྲུག་ དང་ །།"
-msgstr ""
+msgstr "the six syllables of the heart mantra are in the four directions, "
 
 msgctxt "aeef4f404a1d44d4961ea7191f26d792"
 msgid "དེ་ མཐ་␣ར་ ཡིག་བརྒྱ་␣འི་ ཕྲེང་བ་␣ས་ བསྐོར་བ་ ལ་␣ས །།"
