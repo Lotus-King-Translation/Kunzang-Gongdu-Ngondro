@@ -1179,6 +1179,8 @@ msgid ""
 "སླར་ཡང་ བླ་མ་␣འི་ གནས་ གསུམ་ གྱི་ ཡི་གེ་ གསུམ་ ལ་␣ས་ འོད་ཟེར་ དཀར་དམར་ མཐིང་"
 " གསུམ་ འཕྲོ་␣ས །"
 msgstr ""
+"Again, white, red, and blue light shines from the three letters in the "
+"lama's three places, "
 
 msgctxt "f21bb1dab32745c1b0a324cedd3b4150"
 msgid "རང་ གི་ གནས་ གསུམ་ དུ་ ཐིམ །"
