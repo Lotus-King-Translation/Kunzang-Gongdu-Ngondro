@@ -208,7 +208,7 @@ msgstr "like the spinning of a potter's wheel. "
 
 msgctxt "529c3935aa824b26b9c99d6af2c66454"
 msgid "སྲིད་ གསུམ་ རྒ་ དང་ ནད་ ཀྱི་ སྡུག་བསྔལ་ འབར །།"
-msgstr ""
+msgstr "The three existences burn with the pain of old age and sickness. "
 
 msgctxt "dc5c56e9067e4fccbaa8bc215fcab1f6"
 msgid "འདི་ ན་ འཆི་མེད་ རབ་ འབར་ མགོན་མེད་ དེ །།"
