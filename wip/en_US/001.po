@@ -1140,7 +1140,7 @@ msgstr "and purifies the obscurations of my speech. "
 
 msgctxt "8952b6f1ad014b80af5ae8a61d8d901e"
 msgid "གསུང་ གི་ བྱིན་རླབས་ ངག་ ལ་ ཞུགས །"
-msgstr ""
+msgstr "The blessing of the Speech enters my speech."
 
 msgctxt "aef965a5c9154b63b287920cc299612f"
 msgid ""
