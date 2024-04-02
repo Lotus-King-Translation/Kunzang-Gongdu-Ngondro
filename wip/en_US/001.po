@@ -1164,7 +1164,7 @@ msgstr "and purifies the obscurations of my mind. "
 
 msgctxt "6fe24b3bb4ad4863a0e9b02bb8c9ed1f"
 msgid "ཐུགས་ ཀྱི་ བྱིན་རླབས་ ཡིད་ ལ་ ཞུགས །"
-msgstr ""
+msgstr "The blessing of the Mind enters my mind."
 
 msgctxt "dbe8be3c35e84cf99224c9f4dc18ad46"
 msgid ""
