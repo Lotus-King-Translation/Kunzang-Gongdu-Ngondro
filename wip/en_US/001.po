@@ -1096,7 +1096,7 @@ msgstr "are present in the one great embodiment dwelling there, "
 
 msgctxt "d4ad14bc43a3405089635f7d37401a48"
 msgid "གནས་ གསུམ་ རྡོ་རྗེ་␣འི་ འབྲུ་ གསུམ་ གྱིས་ མཚན་ གྱུར །།"
-msgstr ""
+msgstr "with his three vajras marked by the three letters. "
 
 msgctxt "a5e0ea02acb84b4cb490937cabc74d91"
 msgid "ཞེས་ མོས་ ལ་ སླར་ཡང་ གསོལ་བ་ བཏབ་པ་␣ས །"
