@@ -1147,6 +1147,8 @@ msgid ""
 "སངས་རྒྱས་ ཐམས་ཅད་ ཀྱི་ གསུང་ དང་ རང་ གི་ ངག་ དབྱེ་␣ར་ མེད་ གྲགས་ སྟོང་ གི་ "
 "ངང་ དུ་ གྱུར །"
 msgstr ""
+"The Speech of all buddhas and my speech become inseparable within sound-"
+"emptiness. "
 
 msgctxt "e3a549ff9db54d3a9253e45e12c752ff"
 msgid "ཐུགས་ཀ་␣འི་ ཧཱུྃ་ ལ་␣ས་ འོད་ཟེར་ སྔོན་པོ་ འཕྲོ་␣ས །"
