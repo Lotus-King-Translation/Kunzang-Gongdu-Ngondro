@@ -252,7 +252,7 @@ msgstr "obtain the ultimate bliss and be established in great equanimity, "
 
 msgctxt "0a25e70ccdc040c98d0bc046e4bcdd76"
 msgid "ཟབ་ ལམ་ ཉམས་ལེན་ མཐའ་ རུ་ དབྱུང་བ་␣ར་ བགྱི །།"
-msgstr ""
+msgstr "I will practice the profound path to its completion. "
 
 msgctxt "a24fc387f904438b8679711b0acb35f8"
 msgid ""
