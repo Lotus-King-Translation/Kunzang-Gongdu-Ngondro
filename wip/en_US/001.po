@@ -877,11 +877,11 @@ msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "b15d6381cf724be2b98bfacfc3084ad4"
 msgid "རྒྱལ་ ཀུན་ ངོ་བོ་ ཨོ་རྒྱན་ ཐོད་ཕྲེང་ རྩལ །།"
-msgstr ""
+msgstr "The essence of all victorious ones, Orgyen Tötrengtsal, "
 
 msgctxt "dfef486be59f4f0ba536b8359b78409a"
 msgid "མཁའ་སྤྱོད་ ཌཱ་ཀི་ མཁར་ ཆེན་ བཟའ་ མཚོ་ རྒྱལ །།"
-msgstr ""
+msgstr "Dakini of Kachö, Tsogyal, queen of the great court, "
 
 msgctxt "a08ae8c321a2463a9a1d0d3027fcdeca"
 msgid "གདམས་པ་␣འི་ བཀའ་ བབས་ ལྷ་ལྕམ་ པདྨ་ གསལ །།"
