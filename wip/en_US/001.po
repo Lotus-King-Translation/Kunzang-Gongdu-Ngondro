@@ -31,7 +31,7 @@ msgstr "Master who embodies the profuse refuges,"
 
 msgctxt "d01ecdd51ed447dda551b18ebd393843"
 msgid "། དྲིན་ཅན་ བླ་མ་␣ར་ གུས་ བཏུད་ ནས །"
-msgstr ""
+msgstr "kind root lama, bowing to you with devotion,"
 
 msgctxt "b6830dc4c8dc41e3ad779b56bba84770"
 msgid "། ཀུན་བཟང་ དགོངས་པ་ ཀུན་ འདུས་ ཀྱི །"
