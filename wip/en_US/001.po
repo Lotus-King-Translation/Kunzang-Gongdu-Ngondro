@@ -168,7 +168,7 @@ msgstr "The births and deaths of beings are like the visions of a dance. "
 
 msgctxt "26ebf4bb6a5747ce940424c5072f9f4c"
 msgid "སྐྱེས་བུ་␣འི་ ཚེ་འགྲོ་ ནམ་མཁ་␣འི་ གློག་ འདྲ་ སྟེ །།"
-msgstr ""
+msgstr "A person's life span is like lightning in the sky, "
 
 msgctxt "d3e537c976ce47d6ae1e66b7e8d15caf"
 msgid "རི་གཟར་ འབབ་ཆུ་ བཞིན་ དུ་ མྱུར་ མགྱོགས་ འགྲོ །།"
