@@ -687,6 +687,8 @@ msgstr "That is the sambhogakaya lama offering. "
 msgctxt "4238a44808c44d55a479870b1273e467"
 msgid "ཡང་ ཚོམ་བུ་ སོ་ བདུན་ ནམ་ བདུན་ སོགས་ གང་ འོས་ བཀོད་ ལ །"
 msgstr ""
+"Again place the offerings in heaps of thirty-seven, seven or whatever is "
+"appropriate. "
 
 msgctxt "416e22e3cfc14c64b99ce19afd7c633a"
 msgid "སྟོང་གསུམ་ མི་མཇེད་ འཇིག་རྟེན་ ཞིང་ཁམས་ སུ་␣༔"
