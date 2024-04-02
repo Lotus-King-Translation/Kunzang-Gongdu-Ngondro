@@ -277,7 +277,7 @@ msgstr ""
 
 msgctxt "b2b6a89ef06549e0a9aea44268433baf"
 msgid "རང་ཉིད་ གནས་པ་␣འི་ ས་ཕྱོགས་ འདི་དག་ ཀུན །།"
-msgstr ""
+msgstr "This place where I am, the entire area, "
 
 msgctxt "eeb05fb6777a479da8e32755042fa872"
 msgid "དག་པ་␣འི་ ཞིང་ཁམས་ མཚན་ཉིད་ ཡོངས་རྫོགས་ དབུས །།"
