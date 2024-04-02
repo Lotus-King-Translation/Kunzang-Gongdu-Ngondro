@@ -495,7 +495,7 @@ msgstr ""
 
 msgctxt "c06fed0dcd9242d1a12dfdc0dd29c14e"
 msgid "ཨོཾ་ སྭ་ བྷཱ་ ཝ་ ཤུདྡྷ་␣༔ སརྦ་ དྷརྨ་ སྭ་ བྷཱ་ ཝ་ ཤུདྡྷོ྅ཧཾ །"
-msgstr ""
+msgstr "OM SVABHAWA SHUDDHA SARWA DHARMA SVABHAWA SHUDDHO HAM "
 
 msgctxt "e37dec43c5f04cd087675b629bf052b4"
 msgid "མ་ དག་སྣང་བ་ མི་ དམིགས་ སྟོང་པ་␣ར་ སྦྱངས །།"
