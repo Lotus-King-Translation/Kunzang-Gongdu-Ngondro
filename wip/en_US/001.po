@@ -1026,7 +1026,7 @@ msgstr "I supplicate the vajra form. "
 
 msgctxt "06f50d6fa03f486f957b18f925376b18"
 msgid "ལུས་ ལ་ བདེ་བ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
-msgstr ""
+msgstr "Bless my body with bliss. "
 
 msgctxt "ad77c07c3c4643f68c81352115ea572d"
 msgid "རྡོ་རྗེ་␣འི་ གསུང་ ལ་ གསོལ་བ་ འདེབས་␣༔"
