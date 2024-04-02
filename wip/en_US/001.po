@@ -499,7 +499,7 @@ msgstr "OM SVABHAWA SHUDDHA SARWA DHARMA SVABHAWA SHUDDHO HAM "
 
 msgctxt "e37dec43c5f04cd087675b629bf052b4"
 msgid "མ་ དག་སྣང་བ་ མི་ དམིགས་ སྟོང་པ་␣ར་ སྦྱངས །།"
-msgstr ""
+msgstr "Impure appearances disappear and are purified in emptiness. "
 
 msgctxt "d9a8f26356d34882956d1c94dcc340d4"
 msgid "སྟོང་པ་␣འི་ ངང་ ལ་␣ས་ པད་དཀར་ ཟླ་བ་␣འི་ སྟེང༌ །།"
