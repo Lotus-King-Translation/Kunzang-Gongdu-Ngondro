@@ -889,15 +889,15 @@ msgstr "and Lady Pema Sal, who received the legacy of instructions, "
 
 msgctxt "89b9b0422ef94c8ba2eea55c77ae0849"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr ""
+msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "122d4e071717457d950d1357227e0b08"
 msgid "ཟབ་ གཏེར་ མངའ་བདག་ ཨོ་རྒྱན་ པདྨ་ གླིང༌ །།"
-msgstr ""
+msgstr "Master of the profound treasures, Orgyen Pema Ling, "
 
 msgctxt "9aa26719c2c5471ab6415920a22acf9e"
 msgid "སྐལ་ལྡན་ སྔགས་འཆང་ ཆོས་རྗེ་ རྣམ་པ་ གཉིས །།"
-msgstr ""
+msgstr "the two dharma lords, fortunate tantrikas, "
 
 msgctxt "54dc2e6705a74a949bb0f582f4c4655f"
 msgid "སྤྲུལ་པ་␣འི་ སྐུ་ མཆོག་ བསྟན་འཛིན་ གྲགས་པ་ ལ །།"
