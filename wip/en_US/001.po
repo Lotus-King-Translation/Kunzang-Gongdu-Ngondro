@@ -548,7 +548,7 @@ msgstr "all sins, obscurations, habits, sorrows, sickness and spirits. "
 
 msgctxt "6f6984bffb514b81afbe1d7161f6bda6"
 msgid "རང་ ལུས་ ཤེལ་ གོང་ ལྟར་ དག་ དེ་␣འི་ འོད་ཟེར །།"
-msgstr ""
+msgstr "One's body is left as pure as a crystal, and its light "
 
 msgctxt "35bce3cff9a2463ca2ec0db58e4cacf2"
 msgid "འགྲོ་ ཀུན་ ལ་ ཕོག་ སྡིག་སྒྲིབ་ རྒྱུ་ བཅས་ སྦྱངས །།"
