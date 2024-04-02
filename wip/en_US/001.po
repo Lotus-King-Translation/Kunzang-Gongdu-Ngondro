@@ -913,7 +913,7 @@ msgstr "Pema Trinlay, supreme son of the victorious ones, "
 
 msgctxt "65d60eb352674c5bae0f4de79a8358e1"
 msgid "ཤེས་བྱ་ ཀུན་མཁྱེན་ ཚུལ་ཁྲིམས་ རྡོ་རྗེ་␣འི་ ཞབས །།"
-msgstr ""
+msgstr "Tsultrim Dorje, who knows all things, "
 
 msgctxt "b3d52cbcfb434eac960a6f6209433651"
 msgid "གྲུབ་མཆོག་ བསྟན་འཛིན་ འགྱུར་མེད་ རྡོ་རྗེ་ ལ །།"
