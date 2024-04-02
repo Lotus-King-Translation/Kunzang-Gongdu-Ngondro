@@ -468,7 +468,7 @@ msgstr "the body of the five wisdom lights perfected, "
 
 msgctxt "9da1b3b8bf4d4a1b994392f7284c96db"
 msgid "ཐིག་ལེ་ རྣམ་དག་ རྫོགས་ ལྡན་ ལ་␣༔"
-msgstr ""
+msgstr "the completely pure and perfect sphere, "
 
 msgctxt "9fa76eab12b34689b0b29054bc94e042"
 msgid "རང་གྲོལ་ ཆེན་པོ་␣ར་ སེམས་བསྐྱེད་ དོ་␣༔"
