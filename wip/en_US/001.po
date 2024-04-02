@@ -184,7 +184,7 @@ msgstr "possessions, relatives and friends cannot follow. "
 
 msgctxt "c9745b24c2e84d7886fb1eee8b66496f"
 msgid "སྐྱེས་བུ་ དག་ ནི་ གར་ གནས་ གར་ འགྲོ་ ཡང༌ །།"
-msgstr ""
+msgstr "But for all people, wherever they are and wherever they go, "
 
 msgctxt "a7e8e4d338a7425fba6dc85ee746159e"
 msgid "ལ་␣ས་ ནི་ གྲིབ་མ་ བཞིན་ དུ་ རྗེས་སུ་ འབྲང་ །།"
