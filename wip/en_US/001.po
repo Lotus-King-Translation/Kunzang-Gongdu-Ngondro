@@ -921,11 +921,11 @@ msgstr "and the highly accomplished Tenzin Gyurme Dorje, "
 
 msgctxt "381f7996f97242d8aedb9071f9b64bc9"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr ""
+msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "852cf9a63e2a416687f40e14e0c57617"
 msgid "མཚུངས་མེད་ བསྟན་འཛིན་ ལེགས་པ་␣འི་ དོན་གྲུབ་ ཞབས །།"
-msgstr ""
+msgstr "Unequalled Tenzin Lekpai Döndrup, "
 
 msgctxt "82621a49fe4a42d1995ff689f33b3f54"
 msgid "ཁྱབ་བདག་ ངག་དབང་ ཀུན་བཟང་ རྡོ་རྗེ་ འཛིན །།"
