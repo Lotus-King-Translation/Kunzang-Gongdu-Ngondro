@@ -729,7 +729,7 @@ msgstr "In this or in other universes, "
 
 msgctxt "6d463b6ed31f46ba91916050aba29cb0"
 msgid "ལྷ་རྫས་ མཆོག་ གི་ མནྜལ་ བཀོད་པ་ རྣམས་␣༔"
-msgstr ""
+msgstr "all the mandala displays of excellent divine articles "
 
 msgctxt "1585a63db86f4fdf879082617946ec8c"
 msgid "སྐྱབས་གནས་ གུ་རུ་ ཡི་དམ་ ལྷ་ ལ་ འབུལ་␣༔"
