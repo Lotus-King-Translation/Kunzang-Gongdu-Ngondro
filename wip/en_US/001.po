@@ -611,6 +611,8 @@ msgstr "with unsullied clarity, the unaltered original nature. "
 msgctxt "94ac0e2c03d046d789e697f131f857c4"
 msgid "རིག་ སྟོང་ རྡོར་ སེམས་ དགོངས་ ཀློང་ཡངས་པ་␣ར་ བརྡལ །།"
 msgstr ""
+"Awareness-emptiness, the vast expanse of Vajrasattva's enlightened "
+"intention, is all-present. "
 
 msgctxt "22f6eb7d2eef42f2a5584eeeb191b500"
 msgid ""
