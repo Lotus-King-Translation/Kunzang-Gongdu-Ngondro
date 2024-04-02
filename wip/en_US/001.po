@@ -216,7 +216,7 @@ msgstr "Here, in this endless, excruciating, helpless state, "
 
 msgctxt "6ec366dfb23f422cbd9c1b1acaccfbd2"
 msgid "སྲིད་ ལ་␣ས་ བྱུང་ ལ་ འགྲོ་བ་ རྟག་ ཏུ་ རྨོངས །།"
-msgstr ""
+msgstr "they remain ignorant of the way out of existence, "
 
 msgctxt "2da9aa46b8034e6a9fcaa5eaeef59a75"
 msgid "བུམ་པ་␣ར་ ཆུད་པ་␣འི་ བུང་བ་ འཁོར་བ་ བཞིན །།"
