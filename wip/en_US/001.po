@@ -339,7 +339,7 @@ msgstr "in the form of stacks of volumes of the canon. "
 
 msgctxt "a6b1c086152f43019a78c04fb6e3a768"
 msgid "གཡོན་ གྱི་ ཡལ་ག་␣ར་ ཉེ་བ་␣འི་ སྲས་ བརྒྱད་ ལ །།"
-msgstr ""
+msgstr "On the left branch are the eight close sons, "
 
 msgctxt "1b1f732ec1f0477e8e0cda48645cd017"
 msgid "བྱང་སེམས་ ཉན་རང་ འཕགས་པ་␣འི་ ཚོགས་ ཀྱིས་ བསྐོར །།"
