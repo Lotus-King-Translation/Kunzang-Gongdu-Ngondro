@@ -172,7 +172,7 @@ msgstr "A person's life span is like lightning in the sky, "
 
 msgctxt "d3e537c976ce47d6ae1e66b7e8d15caf"
 msgid "རི་གཟར་ འབབ་ཆུ་ བཞིན་ དུ་ མྱུར་ མགྱོགས་ འགྲོ །།"
-msgstr ""
+msgstr "passing as quickly as a steep mountain waterfall. "
 
 msgctxt "8eec9798f88d4783add7ee8320131904"
 msgid "དུས་ ཀྱིས་ བསྙེན་ ནས་ རྒྱལ་པོ་ འགྲོ་ གྱུར་ ན །།"
