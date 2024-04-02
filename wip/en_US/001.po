@@ -760,11 +760,11 @@ msgstr ""
 
 msgctxt "8245652835f24a3498b15ae5af8514c1"
 msgid "ས་གཞི་ སྤོས་ ཀྱིས་ བྱུག་ ཤིང་ མེ་ཏོག་ བཀྲམ །།"
-msgstr ""
+msgstr "The ground anointed with perfumed water and strewn with flowers "
 
 msgctxt "aa702f0286a5491aae9266b4467afbe1"
 msgid "རི་རབ་ གླིང་བཞི་ ཉི་ཟླ་␣ས་ བརྒྱན་པ་ འདི །།"
-msgstr ""
+msgstr "Mount Meru, the four continents, the sun, the moon, "
 
 msgctxt "b4bdd2166b934b97a777c28d10c3fd44"
 msgid "སངས་རྒྱས་ ཞིང་ དུ་ དམིགས་ ཏེ་ ཕུལ་བ་ ཡིས །།"
