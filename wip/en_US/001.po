@@ -1030,11 +1030,11 @@ msgstr "Bless my body with bliss. "
 
 msgctxt "ad77c07c3c4643f68c81352115ea572d"
 msgid "རྡོ་རྗེ་␣འི་ གསུང་ ལ་ གསོལ་བ་ འདེབས་␣༔"
-msgstr ""
+msgstr "I supplicate the vajra speech. "
 
 msgctxt "bc88f7e86b2b42e2b5a13fc11b2af748"
 msgid "ངག་ ལ་ ནུས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
-msgstr ""
+msgstr "Bless my speech with power. "
 
 msgctxt "fc77f146986f4e7b88223861965e3475"
 msgid "རྡོ་རྗེ་␣འི་ ཐུགས་ ལ་ གསོལ་བ་ འདེབས་␣༔"
