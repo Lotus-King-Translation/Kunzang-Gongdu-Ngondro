@@ -581,7 +581,7 @@ msgstr ""
 
 msgctxt "ebaff5d044da4be590587702cc93e49c"
 msgid "ཨོཾ་ བཛྲ་ ས་ ཏྭ་ ཨཱཿ"
-msgstr ""
+msgstr "OM VAJRA SATTVA AH "
 
 msgctxt "05fcdfe6085641809675ff0a7672fcf5"
 msgid ""
