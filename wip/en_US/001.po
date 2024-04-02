@@ -624,7 +624,7 @@ msgstr ""
 
 msgctxt "cd5565a27bc94373b4621d985fe8b24e"
 msgid "བཞི་པ་ ཚོགས་ བསགས་པ་ ནི །"
-msgstr ""
+msgstr "4. Gathering of Accumulations "
 
 msgctxt "b714a22a28ff40d8b504e2b2e3725196"
 msgid "མདུན་ མཁར་ ཚོགས་ ཞིང་ སྐྱབས་ཡུལ་ བཞིན་ གསལ་ ལ །"
