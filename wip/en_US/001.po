@@ -335,7 +335,7 @@ msgstr "On the rear branch is the rare and excellent holy Dharma "
 
 msgctxt "ef8040cbab724e18a1f59c20663d824c"
 msgid "གསུང་རབ་ གླེགས་བམ་ བརྩེགས་པ་␣འི་ རྣམ་པ་ ཅན །།"
-msgstr ""
+msgstr "in the form of stacks of volumes of the canon. "
 
 msgctxt "a6b1c086152f43019a78c04fb6e3a768"
 msgid "གཡོན་ གྱི་ ཡལ་ག་␣ར་ ཉེ་བ་␣འི་ སྲས་ བརྒྱད་ ལ །།"
