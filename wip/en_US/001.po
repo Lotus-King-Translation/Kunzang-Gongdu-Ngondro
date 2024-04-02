@@ -1088,7 +1088,7 @@ msgstr "dissolve into light and finally absorb into the lama's body. "
 
 msgctxt "ae7aaec0184f47c19e547c861e3a1d26"
 msgid "དེ་དག་ ཀུན་ གྱི་ མཁྱེན་བརྩེ་ ནུས་པ་␣འི་ སྟོབས །།"
-msgstr ""
+msgstr "All of their wisdom, love, and strength of capabilities "
 
 msgctxt "f26018c37e154435979bbb425e5ffae6"
 msgid "གཅིག་ བསྡུས་ བདག་ཉིད་ ཆེན་པོ་␣ར་ བཞུགས་པ་ ཡི །།"
