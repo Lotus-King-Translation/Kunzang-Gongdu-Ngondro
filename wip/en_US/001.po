@@ -842,7 +842,7 @@ msgstr "With the activities and qualities of uninhibited compassion, "
 
 msgctxt "468ce3f82c8e480ea613b29162b97c0a"
 msgid "བདག་ རྒྱུད་ བྱིན་ གྱིས་ རློབས་པ་␣འི་ མགོན་ དམ་པ་␣ར །།"
-msgstr ""
+msgstr "the holy master who blesses my mind stream "
 
 msgctxt "08316a21b4b44ea18b40709c6e5e7888"
 msgid "བརྩེ་བ་␣ས་ དགོངས་ བཞིན་ དགྱེས་པ་␣ས་ བཞུགས་པ་␣ར་ གྱུར །།"
