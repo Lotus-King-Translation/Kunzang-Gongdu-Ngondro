@@ -937,7 +937,7 @@ msgstr "and Kunzang Gyurme Chokdrup Palbar, "
 
 msgctxt "cd41c70d0a7845e5baafcb206895d3aa"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr ""
+msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "6b8b46909865407ab958fee6eadfb865"
 msgid "པདྨ་ བསྟན་འཛིན་ གྲུབ་མཆོག་ རྡོ་རྗེ་␣འི་ སྡེ །།"
