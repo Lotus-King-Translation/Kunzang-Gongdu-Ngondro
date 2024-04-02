@@ -619,6 +619,8 @@ msgid ""
 "ཞེས་ གནས་ལུགས་ ཀྱི་ ངང་ ལ་ མཉམ་པ་␣ར་ བཞག་པ་ དོན་དམ་ འབྲས་བུ་␣འི་ སྒྲིབ་ "
 "སྦྱོང་ ངོ༌ །།"
 msgstr ""
+"Resting in equipoise within the true nature is the absolute, fruitional "
+"purification of obscurations. "
 
 msgctxt "cd5565a27bc94373b4621d985fe8b24e"
 msgid "བཞི་པ་ ཚོགས་ བསགས་པ་ ནི །"
