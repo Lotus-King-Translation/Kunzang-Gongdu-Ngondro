@@ -358,7 +358,7 @@ msgstr "surrounded by the yidam deities of the four and six tantras, "
 
 msgctxt "2512c9c5b7674a40b9595818a46658e2"
 msgid "མཐའ་ བསྐོར་ མཁའ་འགྲོ་ ཆོས་སྐྱོང་ ཚོགས་ ཀྱིས་ བསྐོར །།"
-msgstr ""
+msgstr "with the dakinis and dharma protectors all around. "
 
 msgctxt "aae87c8d86b84b42b5450073f8a9edd0"
 msgid "ཀུན་ ཀྱང་ མཚན་དཔེ་␣འི་ གཟི་བྱིན་ འོད་སྟོང་ འབར །།"
