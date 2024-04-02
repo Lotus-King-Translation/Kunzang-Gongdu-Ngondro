@@ -196,11 +196,11 @@ msgstr "Beings under the power of ignorant attached existence-- "
 
 msgctxt "d0d614b32f094a74a7a1c7e3cc88d42f"
 msgid "མི་ དང་ ལྷ་ དང་ ངན་སོང་ རྣམ་ གསུམ་པོ །།"
-msgstr ""
+msgstr "humans, gods and the three lower realms-- "
 
 msgctxt "bd7cbcea346b43a0b14213c8ad522513"
 msgid "འགྲོ་བ་ ལྔ་པོ་ དག་ ཏུ་ མི་ མཁས་ འཁོར །།"
-msgstr ""
+msgstr "cycle unwittingly through these five states "
 
 msgctxt "5a233a079ccb476098ed23a11bc3e215"
 msgid "དཔེར་ན་ རྫ་མཁན་ འཁོར་ལོ་ འཁོར་བ་ བཞིན །།"
