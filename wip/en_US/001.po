@@ -1018,11 +1018,11 @@ msgstr "trembling shimmering forms and spheres. "
 
 msgctxt "d49b072d2fe74ff9b646e3c66f861c30"
 msgid "ལུས་ངག་ ཡིད་ གསུམ་ གུས་ཕྱག་ འཚལ་␣༔"
-msgstr ""
+msgstr "I bow in devotion with body, speech and mind. "
 
 msgctxt "009e353fac1b495cbe621d39bf10a9fa"
 msgid "རྡོ་རྗེ་␣འི་ སྐུ་ ལ་ གསོལ་བ་ འདེབས་␣༔"
-msgstr ""
+msgstr "I supplicate the vajra form. "
 
 msgctxt "06f50d6fa03f486f957b18f925376b18"
 msgid "ལུས་ ལ་ བདེ་བ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
