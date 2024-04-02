@@ -713,7 +713,7 @@ msgstr "After offering that to the nirmanakaya lama, replenish the heaps. "
 
 msgctxt "48537e991af74eb5b169404b22961934"
 msgid "ཆོས་སྐུ་␣འི་ མནྜལ་ སྟོང་ཉིད་ སྙིང་རྗེ་ འབུལ་␣༔"
-msgstr ""
+msgstr "I offer the dharmakaya mandala of emptiness and compassion. "
 
 msgctxt "c6eaaaa9c2814aafaf5e63e2560b7078"
 msgid "ལོངས་སྐུ་␣འི་ མནྜལ་ མ་ འགག་␣ས་ རང་ གསལ་ འབུལ་␣༔"
