@@ -941,11 +941,11 @@ msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "6b8b46909865407ab958fee6eadfb865"
 msgid "པདྨ་ བསྟན་འཛིན་ གྲུབ་མཆོག་ རྡོ་རྗེ་␣འི་ སྡེ །།"
-msgstr ""
+msgstr "Pema Tenzin Drupchok Dorje, "
 
 msgctxt "1fac5d26267f4091b2ee2814ff507a48"
 msgid "རྒྱལ་དབང་ འགྱུར་མེད་ པདྨ་ ཁྱབ་བདག་ རྗེ །།"
-msgstr ""
+msgstr "Lord Gyalwang Gyurme Pema Khyabdak, "
 
 msgctxt "8cc413e2ebe64d1185b23a1699ad0344"
 msgid "བསྟན་འཛིན་ སྲིད་ཞི་ རྣམ་པ་␣ར་ རྒྱལ་བ་ ལ །།"
