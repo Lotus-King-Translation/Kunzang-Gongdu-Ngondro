@@ -873,7 +873,7 @@ msgstr "and excellent nirmanakaya, Garab Dorje, "
 
 msgctxt "50d12fda4075468a8d35d2f5475ae315"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr ""
+msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "b15d6381cf724be2b98bfacfc3084ad4"
 msgid "རྒྱལ་ ཀུན་ ངོ་བོ་ ཨོ་རྒྱན་ ཐོད་ཕྲེང་ རྩལ །།"
