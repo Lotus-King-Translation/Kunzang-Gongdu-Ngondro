@@ -180,7 +180,7 @@ msgstr "When the time has come, even for a king, "
 
 msgctxt "4830d4cf584f412c897d707731c385a7"
 msgid "ལོངས་སྤྱོད་ མཛའ་ དང་ གཉེན་བཤེས་ རྗེས་ མི་ འབྲང་ །།"
-msgstr ""
+msgstr "possessions, relatives and friends cannot follow. "
 
 msgctxt "c9745b24c2e84d7886fb1eee8b66496f"
 msgid "སྐྱེས་བུ་ དག་ ནི་ གར་ གནས་ གར་ འགྲོ་ ཡང༌ །།"
