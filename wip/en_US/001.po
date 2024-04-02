@@ -1062,11 +1062,11 @@ msgstr "Bless me so that the four visions will arise. "
 
 msgctxt "fa5095f61047402ca334b253d9738cb2"
 msgid "འོད་གསལ་ འབྱོངས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
-msgstr ""
+msgstr "Bless me to develop the clear light. "
 
 msgctxt "fa6b419475d04430b538b69c81fd8831"
 msgid "ཟད་ ས་␣ར་ འཁྱོལ་བ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
-msgstr ""
+msgstr "Bless me so all the visions subside into dharmata. "
 
 msgctxt "0b48bb899c2249ac95aa7ddf54903ccf"
 msgid "མཆོག་ དང་ ཐུན་མོང་ དངོས་གྲུབ་ སྩོལ་␣༔"
