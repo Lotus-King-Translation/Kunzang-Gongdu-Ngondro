@@ -188,11 +188,11 @@ msgstr "But for all people, wherever they are and wherever they go, "
 
 msgctxt "a7e8e4d338a7425fba6dc85ee746159e"
 msgid "ལ་␣ས་ ནི་ གྲིབ་མ་ བཞིན་ དུ་ རྗེས་སུ་ འབྲང་ །།"
-msgstr ""
+msgstr "karma follows behind like a shadow. "
 
 msgctxt "034eaa6cfc9f4e0eb68097b4f76585c4"
 msgid "སྲེད་ སྲིད་ མ་རིག་ དབང་ གིས་ སྐྱེ་བོ་ རྣམས །།"
-msgstr ""
+msgstr "Beings under the power of ignorant attached existence-- "
 
 msgctxt "d0d614b32f094a74a7a1c7e3cc88d42f"
 msgid "མི་ དང་ ལྷ་ དང་ ངན་སོང་ རྣམ་ གསུམ་པོ །།"
