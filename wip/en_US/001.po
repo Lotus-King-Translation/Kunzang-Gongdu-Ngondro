@@ -641,7 +641,7 @@ msgstr ""
 
 msgctxt "b058bd20d5d7459686fb3c4204873d0e"
 msgid "ན་མོ་␣༔  གདོད་མ་␣འི་ ཞིང་ཁམས་ རྣམ་པ་␣ར་ དག་པ་ རུ་␣༔"
-msgstr ""
+msgstr "NAMO! In the original, immaculate realm "
 
 msgctxt "a1db06936ace4e03b29a8cd32e75b3a3"
 msgid "ཡེ་ཤེས་ རིག་པ་ འོད་ ལྔ་␣འི་ ཚོམ་བུ་ བཀོད་␣༔"
