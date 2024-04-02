@@ -865,7 +865,7 @@ msgstr ""
 
 msgctxt "75b56e7f62c24c4aafc0262b039bbdcd"
 msgid "བདེ་ལྡན་ ལོངས་སྤྱོད་ རྫོགས་ སྐུ་ རིགས་ ལྔ་␣འི་ ལྷ །།"
-msgstr ""
+msgstr "blissful sambhogakaya deities of the five families, "
 
 msgctxt "1fe8f9cf5ea44cf08593ee7321622818"
 msgid "མཆོག་ གི་ སྤྲུལ་སྐུ་ དགའ་རབ་ རྡོ་རྗེ་ ལ །།"
