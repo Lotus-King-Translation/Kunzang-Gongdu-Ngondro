@@ -464,7 +464,7 @@ msgstr "In basic space with the great array of appearances, "
 
 msgctxt "23d2d16a44204989a026c82b8960b3db"
 msgid "ཡེ་ཤེས་ འོད་ ལྔ་ རྫོགས་པ་␣འི་ སྐུ་␣༔"
-msgstr ""
+msgstr "the body of the five wisdom lights perfected, "
 
 msgctxt "9da1b3b8bf4d4a1b994392f7284c96db"
 msgid "ཐིག་ལེ་ རྣམ་དག་ རྫོགས་ ལྡན་ ལ་␣༔"
