@@ -1042,7 +1042,7 @@ msgstr "I supplicate the vajra mind. "
 
 msgctxt "1a43eeb8834a4592931530cb5bf83f06"
 msgid "སེམས་ ལ་ རྟོགས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
-msgstr ""
+msgstr "Bless my mind with realization. "
 
 msgctxt "78c7f642e6f74e3986fd1a4c552424c1"
 msgid "གནས་ལུགས་ རྟོགས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
