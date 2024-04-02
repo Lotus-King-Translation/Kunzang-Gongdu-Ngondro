@@ -303,7 +303,7 @@ msgstr "On the central branch is a jeweled lion throne "
 
 msgctxt "976d67a2c67a4ca6afe7e9e684830aac"
 msgid "སྣ་ཚོགས་ པདྨ་ ཉི་ཟླ་␣འི་ གདན་ སྟེང་ དུ །།"
-msgstr ""
+msgstr "with a multicolored lotus, sun and moon seat. "
 
 msgctxt "7d729f8ed649409095528a674eded911"
 msgid "བཀའ་དྲིན་ མཚུངས་མེད་ རྩ་བ་␣འི་ བླ་མ་ ཉིད །།"
