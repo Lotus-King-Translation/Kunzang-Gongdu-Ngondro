@@ -949,11 +949,11 @@ msgstr "Lord Gyalwang Gyurme Pema Khyabdak, "
 
 msgctxt "8cc413e2ebe64d1185b23a1699ad0344"
 msgid "བསྟན་འཛིན་ སྲིད་ཞི་ རྣམ་པ་␣ར་ རྒྱལ་བ་ ལ །།"
-msgstr ""
+msgstr "and Tenzin Siszhi Nampar Gyalwa, "
 
 msgctxt "54753de6f19c4c3b9e7e831c2e21d69d"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr ""
+msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "7ccef6cee4e343e8b9262605e2d2a4e9"
 msgid "མི་ འགྱུར་ ལྷུན་གྲུབ་ བདེ་ཆེན་ རྡོ་རྗེ་ རྩལ །།"
