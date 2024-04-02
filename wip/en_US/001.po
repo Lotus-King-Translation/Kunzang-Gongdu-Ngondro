@@ -460,7 +460,7 @@ msgstr ""
 
 msgctxt "d98e6d915ea143daad1c73051a189130"
 msgid "སྣང་བ་ བཀོད་པ་ ཆེན་པོ་␣འི་ དབྱིངས་␣༔"
-msgstr ""
+msgstr "In basic space with the great array of appearances, "
 
 msgctxt "23d2d16a44204989a026c82b8960b3db"
 msgid "ཡེ་ཤེས་ འོད་ ལྔ་ རྫོགས་པ་␣འི་ སྐུ་␣༔"
