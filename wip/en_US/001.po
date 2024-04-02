@@ -645,7 +645,7 @@ msgstr "NAMO! In the original, immaculate realm "
 
 msgctxt "a1db06936ace4e03b29a8cd32e75b3a3"
 msgid "ཡེ་ཤེས་ རིག་པ་ འོད་ ལྔ་␣འི་ ཚོམ་བུ་ བཀོད་␣༔"
-msgstr ""
+msgstr "the heaps of the five lights of wisdom awareness are arrayed. "
 
 msgctxt "4da13e803b474cf39d4f742683d2586e"
 msgid "གཞི་མེད་ སྤྲོས་བྲལ་ ཀུན་བཟང་ ཡབ་ཡུམ་ ལ་␣༔"
