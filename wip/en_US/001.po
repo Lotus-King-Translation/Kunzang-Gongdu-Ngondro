@@ -418,7 +418,7 @@ msgstr ""
 
 msgctxt "bee4052ba7c9406da9697e75c0998734"
 msgid "མཐ་␣ར །"
-msgstr ""
+msgstr "Afterwards: "
 
 msgctxt "170679f9585b4a428b6d37a55cdee961"
 msgid "སྐྱབས་ཡུལ་ རྣམས་ ལ་␣ས་ འོད་ཟེར་ དཔག་ཡས་ བྱུང༌ །།"
