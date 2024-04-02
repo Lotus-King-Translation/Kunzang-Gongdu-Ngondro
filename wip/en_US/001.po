@@ -650,6 +650,7 @@ msgstr "the heaps of the five lights of wisdom awareness are arrayed. "
 msgctxt "4da13e803b474cf39d4f742683d2586e"
 msgid "གཞི་མེད་ སྤྲོས་བྲལ་ ཀུན་བཟང་ ཡབ་ཡུམ་ ལ་␣༔"
 msgstr ""
+"To the baseless, unembellished Samantabhadra, masculine and feminine, "
 
 msgctxt "db8bf4302b3b44bfb75d5f8811770330"
 msgid "གའུ་ ཁ་སྦྱོར་ དབྱིངས་ ཀྱི་ མནྜལ་ འབུལ་␣༔"
