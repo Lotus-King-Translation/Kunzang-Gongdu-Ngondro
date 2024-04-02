@@ -1116,7 +1116,7 @@ msgstr "and purifies the obscurations of my body. "
 
 msgctxt "caccbd755553499b925f78c0b9c300e4"
 msgid "སྐུ་␣འི་ བྱིན་རླབས་ ལུས་ ལ་ ཞུགས །"
-msgstr ""
+msgstr "The blessing of the Body enters my body. "
 
 msgctxt "fbaa82a902604f338d049b2cd0285d23"
 msgid ""
