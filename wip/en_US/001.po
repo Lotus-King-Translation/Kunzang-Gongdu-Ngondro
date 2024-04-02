@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "f80ba776c65d4d19b0c4a67edf6602ee"
 msgid "གཡས་ ཀྱི་ ཡལ་ག་␣ར་ ཐུབ་པ་␣འི་ དབང་པོ་ ལ །།"
-msgstr ""
+msgstr "On the right branch, the Mighty Adept, Buddha, "
 
 msgctxt "db781fe04605459fafa23eb55d734306"
 msgid "ཕྱོགས་ བཅུ་␣འི་ བདེ་གཤེགས་ སངས་རྒྱས་ ཚོགས་ ཀྱིས་ བསྐོར །།"
