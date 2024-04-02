@@ -447,7 +447,7 @@ msgstr ""
 
 msgctxt "d2ed860f48554f7aa87d7558fac6ebd7"
 msgid "གཉིས་པ་ སེམས་བསྐྱེད་པ་ ནི །"
-msgstr ""
+msgstr "2. Engendering the Aspiration for Enlightenment "
 
 msgctxt "b3c7db8844f246fdbf0d5c0d8f7b1e63"
 msgid ""
