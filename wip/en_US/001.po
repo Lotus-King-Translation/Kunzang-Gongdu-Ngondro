@@ -741,7 +741,7 @@ msgstr "Accept it with compassion for the sake of beings. "
 
 msgctxt "d30d5c7a0f64400e88bea08d43410ae6"
 msgid "བཞེས་ ནས་ བྱིན་ གྱིས་ བརླབ་པ་␣ར་ མཛད་ དུ་ གསོལ་␣༔"
-msgstr ""
+msgstr "Having accepted it, please grant your blessing. "
 
 msgctxt "1bf9c5aad952491e91ad70f47ecafbb1"
 msgid ""
