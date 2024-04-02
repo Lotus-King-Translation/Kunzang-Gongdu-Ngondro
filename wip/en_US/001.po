@@ -176,7 +176,7 @@ msgstr "passing as quickly as a steep mountain waterfall. "
 
 msgctxt "8eec9798f88d4783add7ee8320131904"
 msgid "དུས་ ཀྱིས་ བསྙེན་ ནས་ རྒྱལ་པོ་ འགྲོ་ གྱུར་ ན །།"
-msgstr ""
+msgstr "When the time has come, even for a king, "
 
 msgctxt "4830d4cf584f412c897d707731c385a7"
 msgid "ལོངས་སྤྱོད་ མཛའ་ དང་ གཉེན་བཤེས་ རྗེས་ མི་ འབྲང་ །།"
