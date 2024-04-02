@@ -957,7 +957,7 @@ msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "7ccef6cee4e343e8b9262605e2d2a4e9"
 msgid "མི་ འགྱུར་ ལྷུན་གྲུབ་ བདེ་ཆེན་ རྡོ་རྗེ་ རྩལ །།"
-msgstr ""
+msgstr "Mingyur Lhundrup Dechen Dorje, "
 
 msgctxt "6b4ca53c1ede4aa1994695721b2516fe"
 msgid "མཚུངས་མེད་ ཀུན་བཟང་ རིག་འཛིན་ རྡོ་རྗེ་␣འི་ ཞབས །།"
