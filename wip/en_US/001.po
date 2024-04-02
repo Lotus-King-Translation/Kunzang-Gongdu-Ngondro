@@ -1080,7 +1080,7 @@ msgstr ""
 
 msgctxt "5666cf725dde4a9aa2f2c080144e9d8a"
 msgid "ཀུན་བཟང་ ནས་ བཟུང་ བརྒྱུད་པ་␣འི་ བླ་མ་ རྣམས །།"
-msgstr ""
+msgstr "Starting with Samantabhadra, all the lamas in turn "
 
 msgctxt "83a778480ac44e7187fbb8b8d474b318"
 msgid "ཡས་ རིམ་ འོད་ཞུ་ བླ་མ་␣འི་ སྐུ་ ལ་ ཐིམ །།"
