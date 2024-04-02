@@ -1001,7 +1001,7 @@ msgstr "mamos, dakinis, dharma protectors, and treasure lords, "
 
 msgctxt "e44da13725f64179acbce2c9f5ed2751"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr ""
+msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "2ea2706dc341443ea2d7e5aa4c92e9f7"
 msgid ""
