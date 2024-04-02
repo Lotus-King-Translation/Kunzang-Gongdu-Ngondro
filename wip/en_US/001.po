@@ -782,7 +782,7 @@ msgctxt "2256ab8b20894cbea105960976d561bd"
 msgid ""
 "ལྔ་པ་ བླ་མ་␣འི་ རྣལ་འབྱོར་ ནི །  ཟབ་ ལམ་ གྱི་ རྟེན་འབྲེལ་ མོས་གུས་ ཀྱི་ གནད་"
 " ལ་ བརྟེན་ ནས་ བསྒྲིགས་ དགོས་པ་␣ས་ ན་ ཡིད་ ཁྱེད་ ཤེས་ ཀྱི་"
-msgstr ""
+msgstr "The sky before me is an expanse of dazzling five-colored lights. "
 
 msgctxt "36a02b95895a474faae0f21621da3267"
 msgid "དད་པ་ གཏིང་ ཚུགས་པ་␣འི་ སྒོ་ ནས །"
