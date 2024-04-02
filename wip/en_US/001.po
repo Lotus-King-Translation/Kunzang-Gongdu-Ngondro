@@ -1010,7 +1010,7 @@ msgstr "Having first done this lineage prayer, then do the main part: "
 
 msgctxt "e4af14e0e7034add97211a7315bc8449"
 msgid "ཨོཾ་ ཨཱཿ་␣ཧཱུྃ་␣༔  བླ་མ་ འཇའ་ དང་ འོད་ དུ་ འཁྱིལ་ ལི་ ལི་␣༔"
-msgstr ""
+msgstr "OM AH HUNG The lama is wreathed in lights and rainbows, "
 
 msgctxt "ef5381e8231a4151bec3cd9e849b84d4"
 msgid "སྐུ་ དང་ ཐིག་ལེ་␣ར་ ཤིགས་ སེ་ ཤིག་␣༔"
