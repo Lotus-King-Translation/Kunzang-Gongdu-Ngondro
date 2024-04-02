@@ -606,7 +606,7 @@ msgstr "I am Vajrasattva, appearing like a reflection in a mirror, "
 
 msgctxt "5d09201c05fa42c2bf9e0ce697a886db"
 msgid "གསལ་ ལ་ རྙོག་ མེད་ རང་བབས་ གདོད་མ་␣འི་ གཤིས །།"
-msgstr ""
+msgstr "with unsullied clarity, the unaltered original nature. "
 
 msgctxt "94ac0e2c03d046d789e697f131f857c4"
 msgid "རིག་ སྟོང་ རྡོར་ སེམས་ དགོངས་ ཀློང་ཡངས་པ་␣ར་ བརྡལ །།"
