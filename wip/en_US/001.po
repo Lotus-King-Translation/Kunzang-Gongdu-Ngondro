@@ -790,7 +790,7 @@ msgstr ""
 
 msgctxt "6ca68b5da17c4f2895e13b712b79fa22"
 msgid "རང་ མདུན་ ནམ་མཁའ་ འོད་ ལྔ་ འཁྲུགས་པ་␣འི་ ཀློང༌ །།"
-msgstr ""
+msgstr "The sky before me is an expanse of dazzling five-colored lights. "
 
 msgctxt "f9e45730e824423bbc4f051e11d2803a"
 msgid "སེང་ཁྲི་ པདྨ་ ཉི་ཟླ་␣འི་ གདན་ སྟེང་ དུ །།"
