@@ -705,7 +705,7 @@ msgstr ""
 
 msgctxt "5b494521a1084275aad5a09a87f0103b"
 msgid "རིག་ སྣང་དག་པ་ སྤྲུལ་པ་␣འི་ སྐུ་ ལ་ འབུལ་␣༔"
-msgstr ""
+msgstr "I offer them to the nirmanakaya, pure appearance of awareness. "
 
 msgctxt "fe38e4bff97f4411af0853dfbd6c3efa"
 msgid "ཞེས་ བླ་མ་ སྤྲུལ་སྐུ་␣ར་ ཕུལ་ ནས །  སླར་ཡང་ ཚོམ་བུ་ གསོ་ བཞིན་ དུ །"
