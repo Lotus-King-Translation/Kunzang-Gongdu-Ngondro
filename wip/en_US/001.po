@@ -1214,7 +1214,7 @@ msgstr ""
 
 msgctxt "1b21bc8c891a45c09b970c22486fa119"
 msgid "རང་བཞིན་ དག་པ་␣འི་ དགེ་བ་ འདི་␣ས ༔"
-msgstr ""
+msgstr "By this virtue which is pure by nature "
 
 msgctxt "ad407ff0638b409f9958cc355a21800e"
 msgid "འཁོར་བ་ ངན་སོང་ དོང་ སྤྲུགས་ ནསཿ"
