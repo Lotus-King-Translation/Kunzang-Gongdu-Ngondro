@@ -1242,7 +1242,7 @@ msgstr "the path arises as actual appearances. "
 
 msgctxt "b6822c2218524c49a40b97039f6d393f"
 msgid "འབྲས་བུ་ གཞི་ ལ་ རྫོགས་ གྱུར་ཅིག་␣༔"
-msgstr ""
+msgstr "May the fruition be consummated in the basic ground. "
 
 msgctxt "b0871a394752474292de35cd4f98ded0"
 msgid "ཅེས་ དགེ་བ་ བསྔོས་ ཏེ་ སྨོན་ལམ་ གྱིས་ རྒྱས་ བཏབ་ ཅིང་ །"
