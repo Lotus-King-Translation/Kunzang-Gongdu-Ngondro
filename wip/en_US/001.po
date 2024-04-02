@@ -969,7 +969,7 @@ msgstr "and the guide Kunzang Tempai Nyima, "
 
 msgctxt "813d6f0d208e4ccdb3740ebc82c122b7"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr ""
+msgstr "I pray to you to accept me, ripen and liberate my being. "
 
 msgctxt "7ef49089c508420c9798926161ceca79"
 msgid "རྒྱལ་སྲས་ འཇིགས་མེད་ ཚེ་དབང་ ནོར་བུ་␣འི་ དཔལ །།"
