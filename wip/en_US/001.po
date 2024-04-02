@@ -512,6 +512,8 @@ msgstr "one's own mind as the clear white letterHUNG "
 msgctxt "37175943f3a44d9789d93a619472a6b9"
 msgid "རྡོ་རྗེ་ སེམས་དཔའ་ དྲི་མེད་ སྟོན་ ཟླ་␣འི་ མདངས །"
 msgstr ""
+"completely transforms into Vajrasattva, the complexion of the immaculate "
+"autumn moon. "
 
 msgctxt "83f38e181b92457abf759963ed4484bd"
 msgid "ཞི་ འཛུམ་ མཚན་དཔེ་␣འི་ རབ་ མཛེས་ རྡོ་ དྲིལ་ འཛིན །།"
