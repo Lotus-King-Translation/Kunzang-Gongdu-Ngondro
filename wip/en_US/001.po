@@ -443,7 +443,7 @@ msgid ""
 "མཉམ་པ་␣ར་ བཞག་པ་ དོན་དམ་ འབྲས་བུ་␣འི་ སྐྱབས་འགྲོ་␣འོ །"
 msgstr ""
 "Rest in equipoise with the objects of refuge and one's own mind inseparable "
-"within the utter simplicity of awareness- emptiness. This is the absolute, "
+"within the utter simplicity of awareness-emptiness. This is the absolute, "
 "fruitional refuge. "
 
 msgctxt "d2ed860f48554f7aa87d7558fac6ebd7"
