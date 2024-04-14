@@ -187,7 +187,7 @@ msgstr "But for all people, wherever they are and wherever they go, "
 
 msgctxt "a7e8e4d338a7425fba6dc85ee746159e"
 msgid "ལ་␣ས་ ནི་ གྲིབ་མ་ བཞིན་ དུ་ རྗེས་སུ་ འབྲང་ །།"
-msgstr "karma follows behind like a shadow. "
+msgstr "Karma follows behind like a shadow. "
 
 msgctxt "034eaa6cfc9f4e0eb68097b4f76585c4"
 msgid "སྲེད་ སྲིད་ མ་རིག་ དབང་ གིས་ སྐྱེ་བོ་ རྣམས །།"
