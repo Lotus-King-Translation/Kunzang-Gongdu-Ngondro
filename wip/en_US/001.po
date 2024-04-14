@@ -879,7 +879,7 @@ msgstr "Dakini of Kachö, Tsogyal, queen of the great court, "
 
 msgctxt "a08ae8c321a2463a9a1d0d3027fcdeca"
 msgid "གདམས་པ་␣འི་ བཀའ་ བབས་ ལྷ་ལྕམ་ པདྨ་ གསལ །།"
-msgstr "and Lady Pema Sal, who received the legacy of instructions, "
+msgstr "And Lady Pema Sal, who received the legacy of instructions, "
 
 msgctxt "89b9b0422ef94c8ba2eea55c77ae0849"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
