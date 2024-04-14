@@ -203,7 +203,7 @@ msgstr "Cycle unwittingly through these five states "
 
 msgctxt "5a233a079ccb476098ed23a11bc3e215"
 msgid "དཔེར་ན་ རྫ་མཁན་ འཁོར་ལོ་ འཁོར་བ་ བཞིན །།"
-msgstr "like the spinning of a potter's wheel. "
+msgstr "Like the spinning of a potter's wheel. "
 
 msgctxt "529c3935aa824b26b9c99d6af2c66454"
 msgid "སྲིད་ གསུམ་ རྒ་ དང་ ནད་ ཀྱི་ སྡུག་བསྔལ་ འབར །།"
