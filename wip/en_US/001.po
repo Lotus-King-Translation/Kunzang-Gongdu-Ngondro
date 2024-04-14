@@ -911,7 +911,7 @@ msgstr "Tsultrim Dorje, who knows all things, "
 
 msgctxt "b3d52cbcfb434eac960a6f6209433651"
 msgid "གྲུབ་མཆོག་ བསྟན་འཛིན་ འགྱུར་མེད་ རྡོ་རྗེ་ ལ །།"
-msgstr "and the highly accomplished Tenzin Gyurme Dorje, "
+msgstr "And the highly accomplished Tenzin Gyurme Dorje, "
 
 msgctxt "381f7996f97242d8aedb9071f9b64bc9"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
