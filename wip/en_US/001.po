@@ -796,7 +796,7 @@ msgstr "Sits the sovereign lord, the kind root lama himself, "
 
 msgctxt "76ea970ab79142deb316209541a9d759"
 msgid "མངོན་སུམ་ བཞིན་ དུ་ བཞུགས་པ་␣འི་ སྤྱི་བོ་ ནས །།"
-msgstr "appearing to be truly present. "
+msgstr "Appearing to be truly present. "
 
 msgctxt "241bf88a5c764c3188ef64e0994d59d3"
 msgid "ཡས་ རིམ་བརྒྱུད་པ་␣འི་ བླ་མ་ ཐོ་ བརྩེགས་ བཞུགས །།"
