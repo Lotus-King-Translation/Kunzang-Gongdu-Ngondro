@@ -812,7 +812,7 @@ msgstr "Buddhas, bodhisattvas, dakas and dakinis, "
 
 msgctxt "80be75b2e5414b6bb9f2108557ea3743"
 msgid "ཆོས་སྐྱོང་ ཚོགས་ ཀྱི་ སྤྲིན་ཕུང་ གཏིབ་ བཞིན་ བསྐོར །།"
-msgstr "and dharma protectors, all clustered around like thick clouds. "
+msgstr "And dharma protectors, all clustered around like thick clouds. "
 
 msgctxt "3eec50082c784549a8e0b3506c580e5d"
 msgid "ཀུན་ ཀྱང་ སྐུ་ མཆོག་ མཚན་དཔེ་␣འི་ གཟི་མདངས་ འབར །།"
