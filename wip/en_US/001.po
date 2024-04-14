@@ -840,7 +840,7 @@ msgstr "The holy master who blesses my mind stream "
 
 msgctxt "08316a21b4b44ea18b40709c6e5e7888"
 msgid "བརྩེ་བ་␣ས་ དགོངས་ བཞིན་ དགྱེས་པ་␣ས་ བཞུགས་པ་␣ར་ གྱུར །།"
-msgstr "dwells joyfully thinking of me with loving kindness. "
+msgstr "Dwells joyfully thinking of me with loving kindness. "
 
 msgctxt "5c33aa22e0b6439fb0aaa0560f7b4939"
 msgid ""
