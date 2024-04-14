@@ -318,7 +318,7 @@ msgstr "Above his head are all the lineage lamas, "
 
 msgctxt "a6642aaf08df49c9a9bd41c3bd4f87fd"
 msgid "བརྒྱུད་པ་␣འི་ བླ་མ་ མ་ ལུས་ ཐོ་ བརྩེགས་ བཞུགས །།"
-msgstr "one above the other, up to Samantabhadra. "
+msgstr "One above the other, up to Samantabhadra. "
 
 msgctxt "f80ba776c65d4d19b0c4a67edf6602ee"
 msgid "གཡས་ ཀྱི་ ཡལ་ག་␣ར་ ཐུབ་པ་␣འི་ དབང་པོ་ ལ །།"
