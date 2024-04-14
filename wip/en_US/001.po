@@ -543,7 +543,7 @@ msgstr "From this flows a cascade of elixir, expelling and purifying "
 
 msgctxt "b9fab1218f0041459b1df92dfa430aa7"
 msgid "སྡུག་བསྔལ་ ནད་གདོན་ མ་ ལུས་ ཕྱིར་ སྦྱངས་ ཏེ །།"
-msgstr "all sins, obscurations, habits, sorrows, sickness and spirits. "
+msgstr "All sins, obscurations, habits, sorrows, sickness and spirits. "
 
 msgctxt "6f6984bffb514b81afbe1d7161f6bda6"
 msgid "རང་ ལུས་ ཤེལ་ གོང་ ལྟར་ དག་ དེ་␣འི་ འོད་ཟེར །།"
