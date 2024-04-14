@@ -365,7 +365,7 @@ msgstr "All of them are blazing like a thousand lights,"
 
 msgctxt "bc77c26343014d9e8e75cba7d63fbfd3"
 msgid "མཐོང་ཐོས་ དྲན་ རེག་ སྒྲོལ་བ་␣འི་ ཐུགས་རྗེ་ ཅན །།"
-msgstr "with the brilliance of their marks and characteristics. "
+msgstr "With the brilliance of their marks and characteristics. "
 
 msgctxt "b3f11a2aa74a4238a6aa0535b45e44bf"
 msgid "བདག་ སོགས་ འགྲོ་ ལ་ བུ་ གཅིག་ མ་ བཞིན་ དུ །།"
