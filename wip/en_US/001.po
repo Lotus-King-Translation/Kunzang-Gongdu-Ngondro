@@ -1138,7 +1138,7 @@ msgstr "[It] is absorbed into my own throat "
 
 msgctxt "4f15b4ff736a40c88dbbbe19aaf7a07d"
 msgid "ངག་ གི་ སྒྲིབ་པ་ སྦྱངས །"
-msgstr "and purifies the obscurations of my speech. "
+msgstr "And purifies the obscurations of my speech. "
 
 msgctxt "8952b6f1ad014b80af5ae8a61d8d901e"
 msgid "གསུང་ གི་ བྱིན་རླབས་ ངག་ ལ་ ཞུགས །"
