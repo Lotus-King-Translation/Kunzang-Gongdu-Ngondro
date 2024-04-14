@@ -1186,11 +1186,11 @@ msgstr ""
 
 msgctxt "f21bb1dab32745c1b0a324cedd3b4150"
 msgid "རང་ གི་ གནས་ གསུམ་ དུ་ ཐིམ །"
-msgstr "is absorbed into my own three places "
+msgstr "[It] is absorbed into my own three places "
 
 msgctxt "af793e24299c4d6cb13821be49d6c6d4"
 msgid "སྒོ་གསུམ་ གྱི་ སྒྲིབ་པ་ སྦྱངས །"
-msgstr "and purifies the obscurations of my three faculties. "
+msgstr "And purifies the obscurations of my three faculties. "
 
 msgctxt "847fcb3254154ad0b92b0133be4d9faa"
 msgid "རྡོ་རྗེ་ གསུམ་ གྱི་ བྱིན་རླབས་ སྒོ་གསུམ་ ལ་ ཞུགས །"
