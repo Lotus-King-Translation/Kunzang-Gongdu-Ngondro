@@ -343,7 +343,7 @@ msgstr "On the left branch are the eight close sons, "
 msgctxt "1b1f732ec1f0477e8e0cda48645cd017"
 msgid "བྱང་སེམས་ ཉན་རང་ འཕགས་པ་␣འི་ ཚོགས་ ཀྱིས་ བསྐོར །།"
 msgstr ""
-"surrounded by the noble assembly of bodhisattvas, sravakas and "
+"Surrounded by the noble assembly of bodhisattvas, sravakas and "
 "pratyekabuddhas. "
 
 msgctxt "c763cc4382b84d4089d214062c501416"
