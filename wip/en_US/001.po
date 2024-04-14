@@ -1078,7 +1078,7 @@ msgctxt "2070a5a4502d428f8e9c2242c3b7f78a"
 msgid "ཞེས་ བརྒྱ་ སྟོང་ སོགས་ གྲངས་ ཅི་ ནུས་ ཀྱིས་ གསོལ་བ་ བཏབ་པ་␣ས །"
 msgstr ""
 "Pray in this way as many times as possible, such as a hundred, a thousand, "
-"and so on. "
+"[or more times]. "
 
 msgctxt "5666cf725dde4a9aa2f2c080144e9d8a"
 msgid "ཀུན་བཟང་ ནས་ བཟུང་ བརྒྱུད་པ་␣འི་ བླ་མ་ རྣམས །།"
