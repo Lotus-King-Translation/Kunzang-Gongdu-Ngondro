@@ -762,7 +762,7 @@ msgstr "Mount Meru, the four continents, the sun, the moon, "
 
 msgctxt "b4bdd2166b934b97a777c28d10c3fd44"
 msgid "སངས་རྒྱས་ ཞིང་ དུ་ དམིགས་ ཏེ་ ཕུལ་བ་ ཡིས །།"
-msgstr "Are offered as a Buddha realm. "
+msgstr "Are offered as a Buddha field. "
 
 msgctxt "1248c3e4624949728e031a986d31b50b"
 msgid "འགྲོ་ ཀུན་ རྣམ་དག་ ཞིང་ ལ་ སྤྱོད་པ་␣ར་ ཤོག །"
