@@ -895,7 +895,7 @@ msgstr "The two dharma lords, fortunate tantrikas, "
 
 msgctxt "54dc2e6705a74a949bb0f582f4c4655f"
 msgid "སྤྲུལ་པ་␣འི་ སྐུ་ མཆོག་ བསྟན་འཛིན་ གྲགས་པ་ ལ །།"
-msgstr "and the excellent nirmanakaya, Tenzin Drakpa, "
+msgstr "And the excellent nirmanakaya, Tenzin Drakpa, "
 
 msgctxt "bfc470de58dd44aab8852322452ac0d2"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
