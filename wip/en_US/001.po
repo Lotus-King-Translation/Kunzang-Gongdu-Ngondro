@@ -1162,7 +1162,7 @@ msgstr "[It] is absorbed into my own heart "
 
 msgctxt "5f4b5d30a862495b87a6e2576ddd27dd"
 msgid "ཡིད་ ཀྱི་ སྒྲིབ་པ་ སྦྱངས །"
-msgstr "and purifies the obscurations of my mind. "
+msgstr "And purifies the obscurations of my mind. "
 
 msgctxt "6fe24b3bb4ad4863a0e9b02bb8c9ed1f"
 msgid "ཐུགས་ ཀྱི་ བྱིན་རླབས་ ཡིད་ ལ་ ཞུགས །"
