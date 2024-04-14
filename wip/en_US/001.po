@@ -987,7 +987,7 @@ msgstr "The union of Samantabhadra's intentions, quintessence of his mind, "
 
 msgctxt "12a006c2ff5247ee8fdc73107c823bda"
 msgid "ཡི་དམ་ རྒྱལ་བ་ ཞི་ དང་ ཁྲོ་བོ་␣འི་ ཚོགས །།"
-msgstr "assembly of victorious yidams, peaceful and wrathful ones, "
+msgstr "Assembly of victorious yidams, peaceful and wrathful ones, "
 
 msgctxt "d2c3ad84328b4e22b7ba8119ed8a9a7c"
 msgid "མ་ དང་ མཁའ་འགྲོ་ ཆོས་སྐྱོང་ གཏེར་བདག་ ལ །།"
