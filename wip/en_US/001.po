@@ -915,7 +915,7 @@ msgstr "And the highly accomplished Tenzin Gyurme Dorje, "
 
 msgctxt "381f7996f97242d8aedb9071f9b64bc9"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I pray to you to accept me, ripen and liberate my being. "
+msgstr "I supplicate you to accept me, ripen and liberate my being. "
 
 msgctxt "852cf9a63e2a416687f40e14e0c57617"
 msgid "མཚུངས་མེད་ བསྟན་འཛིན་ ལེགས་པ་␣འི་ དོན་གྲུབ་ ཞབས །།"
@@ -931,7 +931,7 @@ msgstr "and Kunzang Gyurme Chokdrup Palbar, "
 
 msgctxt "cd41c70d0a7845e5baafcb206895d3aa"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I pray to you to accept me, ripen and liberate my being. "
+msgstr "I supplicate you to accept me, ripen and liberate my being. "
 
 msgctxt "6b8b46909865407ab958fee6eadfb865"
 msgid "པདྨ་ བསྟན་འཛིན་ གྲུབ་མཆོག་ རྡོ་རྗེ་␣འི་ སྡེ །།"
@@ -947,7 +947,7 @@ msgstr "and Tenzin Siszhi Nampar Gyalwa, "
 
 msgctxt "54753de6f19c4c3b9e7e831c2e21d69d"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I pray to you to accept me, ripen and liberate my being. "
+msgstr "I supplicate you to accept me, ripen and liberate my being. "
 
 msgctxt "7ccef6cee4e343e8b9262605e2d2a4e9"
 msgid "མི་ འགྱུར་ ལྷུན་གྲུབ་ བདེ་ཆེན་ རྡོ་རྗེ་ རྩལ །།"
@@ -963,7 +963,7 @@ msgstr "And the guide Kunzang Tenpai Nyima, "
 
 msgctxt "813d6f0d208e4ccdb3740ebc82c122b7"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I pray to you to accept me, ripen and liberate my being. "
+msgstr "I supplicate you to accept me, ripen and liberate my being. "
 
 msgctxt "7ef49089c508420c9798926161ceca79"
 msgid "རྒྱལ་སྲས་ འཇིགས་མེད་ ཚེ་དབང་ ནོར་བུ་␣འི་ དཔལ །།"
@@ -979,7 +979,7 @@ msgstr "And my root lama, sovereign over all the families, "
 
 msgctxt "70db971596ec48c2bfdde8e86215826c"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I pray to you to accept me, ripen and liberate my being. "
+msgstr "I supplicate you to accept me, ripen and liberate my being. "
 
 msgctxt "6e6ac0d545d14191aa648f6c943e5ea1"
 msgid "ཀུན་བཟང་ ཐུགས་ བཅུད་ དགོངས་པ་ ཀུན་ འདུས་ དང་ །།"
@@ -995,7 +995,7 @@ msgstr "Mamos, dakinis, dharma protectors, and treasure lords, "
 
 msgctxt "e44da13725f64179acbce2c9f5ed2751"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I pray to you to accept me, ripen and liberate my being. "
+msgstr "I supplicate you to accept me, ripen and liberate my being. "
 
 msgctxt "2ea2706dc341443ea2d7e5aa4c92e9f7"
 msgid ""
