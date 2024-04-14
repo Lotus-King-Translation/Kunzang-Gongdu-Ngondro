@@ -959,7 +959,7 @@ msgstr "Peerless Kunzang Rikdzin Dorje, "
 
 msgctxt "3e00801f969d4fbd8856864a304b482c"
 msgid "རྣམ་འདྲེན་ ཀུན་བཟང་ བསྟན་པ་␣འི་ ཉི་མ་ ལ །།"
-msgstr "and the guide Kunzang Tempai Nyima, "
+msgstr "And the guide Kunzang Tenpai Nyima, "
 
 msgctxt "813d6f0d208e4ccdb3740ebc82c122b7"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
