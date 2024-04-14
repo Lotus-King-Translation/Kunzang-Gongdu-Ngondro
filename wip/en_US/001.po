@@ -1235,11 +1235,11 @@ msgstr "For all beings, the basic ground of everything "
 
 msgctxt "dba2053a5a8d4912b1424214c9a93ca0"
 msgid "གཞི་ ནི་ ལྷུན་ གྱིས་ གྲུབ་པ་ ལཿ"
-msgstr "is spontaneous presence, upon which "
+msgstr "Is spontaneous presence, upon which "
 
 msgctxt "64567d2bfc9d40278713b238df940767"
 msgid "ལམ་ ནི་ མངོན་སུམ་ སྣང་བ་␣ར་ ཤརཿ"
-msgstr "the path arises as actual appearances. "
+msgstr "The path arises as actual appearances. "
 
 msgctxt "b6822c2218524c49a40b97039f6d393f"
 msgid "འབྲས་བུ་ གཞི་ ལ་ རྫོགས་ གྱུར་ཅིག་␣༔"
