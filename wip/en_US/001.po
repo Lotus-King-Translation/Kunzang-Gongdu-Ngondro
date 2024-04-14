@@ -1158,7 +1158,7 @@ msgstr "Blue light shines from the HUM in the lama's heart, "
 
 msgctxt "ccc824da2e514c06848839857b3d9dd9"
 msgid "རང་ གི་ སྙིང་ག་␣ར་ ཐིམ །"
-msgstr "is absorbed into my own heart "
+msgstr "[It] is absorbed into my own heart "
 
 msgctxt "5f4b5d30a862495b87a6e2576ddd27dd"
 msgid "ཡིད་ ཀྱི་ སྒྲིབ་པ་ སྦྱངས །"
