@@ -310,7 +310,7 @@ msgstr "Upon that is the incomparably kind root lama, "
 
 msgctxt "d17e7f95c15941d6b1fa3cda87896b15"
 msgid "གང་ འདུལ་ མོས་ ངོ་␣ར་ ཅིར་ ཡང་ འཆར་བ་␣འི་ ཚུལ །།"
-msgstr "appearing in whatever way suits disciples. "
+msgstr "Appearing in whatever way suits disciples. "
 
 msgctxt "ffaf7b031db947dcb006616c08270dd0"
 msgid "དབུ་ གཙུག་ ཡས་ རིམ་ ཀུན་ ཏུ་ བཟང་པོ་␣འི་ བར །།"
