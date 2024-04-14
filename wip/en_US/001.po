@@ -1114,7 +1114,7 @@ msgstr "[It] is absorbed into my own forehead, "
 
 msgctxt "c9d334c09cd243e69d33e1c384db3b7b"
 msgid "ལུས་ ཀྱི་ སྒྲིབ་པ་ སྦྱངས །"
-msgstr "and purifies the obscurations of my body. "
+msgstr "And purifies the obscurations of my body. "
 
 msgctxt "caccbd755553499b925f78c0b9c300e4"
 msgid "སྐུ་␣འི་ བྱིན་རླབས་ ལུས་ ལ་ ཞུགས །"
