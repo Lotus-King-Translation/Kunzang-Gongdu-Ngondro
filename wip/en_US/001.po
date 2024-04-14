@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "THE EXCELLENT PATH OF AWAKENING \n"
 "\n"
-"The Liturgy for the Preliminary Practice of The Union of Samantabhadra's Intentions "
+"The Liturgy for the Foundational Practice of The Union of Samantabhadra's Intentions "
 
 msgctxt "33a9d8a91fde4931bb0b39e8ef6e8b82"
 msgid "ཨོཾ་ སྭ་ སྟི །"
