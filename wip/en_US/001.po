@@ -579,7 +579,7 @@ msgstr ""
 
 msgctxt "8eba7e6335464b6b89355b2981f35536"
 msgid "ཞེས་ ཡི་གེ་ བརྒྱ་པ་ དང་ །"
-msgstr ""
+msgstr "Having recited the hundred syllables, [next recite the heart mantra]:"
 
 msgctxt "ebaff5d044da4be590587702cc93e49c"
 msgid "ཨོཾ་ བཛྲ་ ས་ ཏྭ་ ཨཱཿ"
