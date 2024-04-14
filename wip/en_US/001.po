@@ -863,7 +863,7 @@ msgstr "Blissful sambhogakaya deities of the five families, "
 
 msgctxt "1fe8f9cf5ea44cf08593ee7321622818"
 msgid "མཆོག་ གི་ སྤྲུལ་སྐུ་ དགའ་རབ་ རྡོ་རྗེ་ ལ །།"
-msgstr "and excellent nirmanakaya, Garab Dorje, "
+msgstr "And excellent nirmanakaya, Garab Dorje, "
 
 msgctxt "50d12fda4075468a8d35d2f5475ae315"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
