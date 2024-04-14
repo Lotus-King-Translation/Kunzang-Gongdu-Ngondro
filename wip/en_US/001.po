@@ -562,7 +562,7 @@ msgstr "Appearance and sound become the play of deity and mantra. "
 
 msgctxt "3498604085ea4ccd8d76fd20dee1daa2"
 msgid "ཞེས་ དམིགས་ ལ །"
-msgstr "In imagining that way"
+msgstr "In imagining that way [recite the 100 Syllable Mantra]:"
 
 msgctxt "4b15b426589949f6adfff77d70b6c101"
 msgid ""
