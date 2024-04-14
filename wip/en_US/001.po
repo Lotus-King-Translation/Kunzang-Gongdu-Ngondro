@@ -1223,11 +1223,11 @@ msgstr "May samsara be shaken from the depths of the lower realms "
 
 msgctxt "6432fbf6c18840ffab0b62f5810e4128"
 msgid "སྲིད་ ན་ འགའ་ཡང་ མི་ གནས་ པརཿ་␣༔"
-msgstr "without even a trace of existence left, "
+msgstr "Without even a trace of existence left, "
 
 msgctxt "3c5a35a175e141ef95554eca9b971172"
 msgid "ཐམས་ཅད་ སངས་རྒྱས་ མྱུར་ ཐོབ་ ཤོག་␣༔"
-msgstr "and may all quickly attain buddhahood. "
+msgstr "And may all quickly attain buddhahood. "
 
 msgctxt "54e4216a37114c46b5c77357ee62a53d"
 msgid "སེམས་ཅན་ རྣམས་ ནི་ ཐམས་ཅད་ ཀྱི་␣༔"
