@@ -766,7 +766,7 @@ msgstr "Are offered as a Buddha field. "
 
 msgctxt "1248c3e4624949728e031a986d31b50b"
 msgid "འགྲོ་ ཀུན་ རྣམ་དག་ ཞིང་ ལ་ སྤྱོད་པ་␣ར་ ཤོག །"
-msgstr "May all beings attain the Pure Land through this offering! "
+msgstr "May all beings attain the utterly pure field through this offering! "
 
 msgctxt "1b3859dfbaf24d2f9dfe1f9bea4f6ab1"
 msgid "ཨི་ དམ་ གུ་རུ་ རཏྣ་ མནྜལ་ ཀཾ་ ནིནྱཱ་ ཏ་ ཡཱ་ མི །"
