@@ -527,7 +527,7 @@ msgstr ""
 
 msgctxt "a98faf0a883d4630b05b45ce097c8426"
 msgid "ཐུགས་ དབུས་ པད་ ཟླ་␣ར་ རྡོ་རྗེ་␣འི་ ལྟེ་བ་␣ར་ ཧཱུྃ །།"
-msgstr "HUNG is in the middle of a vajra on a lotus and moon in his heart. "
+msgstr "HUM is in the middle of a vajra on a lotus and moon in his heart. "
 
 msgctxt "686c81334ceb4478861eafd971fd96c0"
 msgid "ཡན་ལག་ བཞི་ ལ་ སྙིང་པོ་ འབྲུ་ དྲུག་ དང་ །།"
