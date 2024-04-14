@@ -891,7 +891,7 @@ msgstr "Master of the profound treasures, Orgyen Pema Ling, "
 
 msgctxt "9aa26719c2c5471ab6415920a22acf9e"
 msgid "སྐལ་ལྡན་ སྔགས་འཆང་ ཆོས་རྗེ་ རྣམ་པ་ གཉིས །།"
-msgstr "the two dharma lords, fortunate tantrikas, "
+msgstr "The two dharma lords, fortunate tantrikas, "
 
 msgctxt "54dc2e6705a74a949bb0f582f4c4655f"
 msgid "སྤྲུལ་པ་␣འི་ སྐུ་ མཆོག་ བསྟན་འཛིན་ གྲགས་པ་ ལ །།"
