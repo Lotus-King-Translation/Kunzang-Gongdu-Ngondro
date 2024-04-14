@@ -235,7 +235,7 @@ msgstr "All beings throughout space, my mothers and fathers, "
 
 msgctxt "588ae0283bfb4eb293eecb904a59d5fa"
 msgid "བདེ་བ་ འདོད་ ཀྱང་ སྡུག་བསྔལ་ འབའ་ཞིག་ སྒྲུབ །།"
-msgstr "desire happiness but achieve only suffering. "
+msgstr "Desire happiness but achieve only suffering. "
 
 msgctxt "e2598abd50b044cda0b81be2bfab052e"
 msgid "ཐར་ མེད་ འཁོར་བ་␣ར་ འཁྱམས་པ་ སྙིང་ རེ་ རྗེ །།"
