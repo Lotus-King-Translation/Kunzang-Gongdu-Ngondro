@@ -691,8 +691,7 @@ msgstr ""
 
 msgctxt "416e22e3cfc14c64b99ce19afd7c633a"
 msgid "སྟོང་གསུམ་ མི་མཇེད་ འཇིག་རྟེན་ ཞིང་ཁམས་ སུ་␣༔"
-msgstr ""
-"In the realm field of dauntless worlds of the three thousand-fold universe,"
+msgstr "In the field of dauntless worlds of the three thousand-fold universe,"
 
 msgctxt "6abf8276df0d48008f80aaea6920c673"
 msgid "བྱེ་བ་ ཕྲག་ བརྒྱ་ འཛམ་གླིང་ ཚོམ་བུ་␣ར་ བཀོད་␣༔"
