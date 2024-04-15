@@ -128,7 +128,7 @@ msgstr ""
 msgctxt "69d28230f8a54a77a2d49a29e7ee7296"
 msgid "། གཉིས་པ་ སྐབས་དོན་ སྔོན་འགྲོ་ དངོས་ ལ །"
 msgstr ""
-"1.2. In the foundational practice of the special meaning, there are two "
+"1.2. In the foundational practice of the particular meaning, there are two "
 "parts."
 
 msgctxt "7fe40ae736594d7696e6c2ad54528e4e"
