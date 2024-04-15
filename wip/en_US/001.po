@@ -62,8 +62,7 @@ msgid "སྤྱི་བོ་␣ར་ རྩ་བ་␣འི་ བླ་�
 msgstr ""
 "Sit upright on a comfortable seat, and after settling the mind naturally, "
 "clear out the stale breath three times. Then meditate that your root lama "
-"sits cheerfully on the crown of your head and with intense, heartfelt "
-"devotion, supplicate as follows: "
+"sits cheerfully on the crown of your head."
 
 msgctxt "7ad6bff0b4d8486b8192de14bf150cae"
 msgid "མོས་གུས་ གདུང་ཤུགས་ དྲག་པོ་␣ས །"
