@@ -57,7 +57,7 @@ msgstr "The [second part]: Particular, pertinent foundational practice"
 
 msgctxt "db0d15d3ee4147458d9c93d798f634e2"
 msgid "དང་པོ་ ནི །"
-msgstr "1. [Beginning the session]"
+msgstr "1.1. [Beginning the session]"
 
 msgctxt "530255c201e2404f969577f0f167cad5"
 msgid "སྤྱི་བོ་␣ར་ རྩ་བ་␣འི་ བླ་མ་ དགྱེས་ བཞིན་ དུ་ བཞུགས་པ་␣ར་ བསྒོམ་ ལ །"
