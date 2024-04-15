@@ -47,9 +47,7 @@ msgstr "In this there are two parts: "
 
 msgctxt "6f23a76f94bc43a094a3ddcc0caa54e4"
 msgid "ཐུན་ སྤྱི་␣འི་ སྔོན་འགྲོ་ དང༌ །"
-msgstr ""
-"The general, common preliminary and the particular, pertinent foundational "
-"practice. "
+msgstr "The general, common preliminary and,"
 
 msgctxt "3b126e92cbdb4e47abc78b5197553afe"
 msgid "སྐཔས་ དོན་ སྒོས་ ཀྱི་ སྔོན་འགྲོ་␣འོ །"
