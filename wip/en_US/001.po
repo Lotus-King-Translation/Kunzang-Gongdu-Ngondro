@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "6f23a76f94bc43a094a3ddcc0caa54e4"
 msgid "ཐུན་ སྤྱི་␣འི་ སྔོན་འགྲོ་ དང༌ །"
-msgstr "The [first part]: General, common foundational practice."
+msgstr "The [first part]: Beginning the foundational practice session."
 
 msgctxt "3b126e92cbdb4e47abc78b5197553afe"
 msgid "སྐཔས་ དོན་ སྒོས་ ཀྱི་ སྔོན་འགྲོ་␣འོ །"
