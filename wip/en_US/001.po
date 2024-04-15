@@ -43,7 +43,8 @@ msgstr "of the Union of Samantabhadra's Enlightened Intent"
 
 msgctxt "9b508b8e67b14a37a1cb197a0b67ec38"
 msgid "འདི་ ལ་ གཉིས །"
-msgstr "In this there are two parts: "
+msgstr ""
+"[There are two sections]. In this [first section] there are two parts: "
 
 msgctxt "6f23a76f94bc43a094a3ddcc0caa54e4"
 msgid "ཐུན་ སྤྱི་␣འི་ སྔོན་འགྲོ་ དང༌ །"
