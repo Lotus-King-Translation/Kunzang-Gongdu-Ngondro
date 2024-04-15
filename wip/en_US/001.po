@@ -51,7 +51,8 @@ msgstr "Beginning the foundational practice session, and "
 
 msgctxt "3b126e92cbdb4e47abc78b5197553afe"
 msgid "སྐཔས་ དོན་ སྒོས་ ཀྱི་ སྔོན་འགྲོ་␣འོ །"
-msgstr "Particular, pertinent foundational practice"
+msgstr ""
+"During [the practice session], foundational practice of the special meaning."
 
 msgctxt "db0d15d3ee4147458d9c93d798f634e2"
 msgid "དང་པོ་ ནི །"
