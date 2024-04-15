@@ -387,7 +387,7 @@ msgctxt "b68d4909c8b04824b88c8e87336064d7"
 msgid ""
 "དེ་དག་ གི་ ཡོན་ཏན་ དང་ ཐུགས་རྗེ་ དྲན་པ་␣འི་ མོས་གུས་ གདུང་ཤུགས་ དྲག་པོ་␣ས །"
 msgstr ""
-"pray with the intense, heartfelt devotion that comes from contemplating "
+"Pray with the intense, heartfelt devotion that comes from contemplating "
 "their qualities and compassion: "
 
 msgctxt "381982c9d28f431ea161e08bf2c52f5f"
