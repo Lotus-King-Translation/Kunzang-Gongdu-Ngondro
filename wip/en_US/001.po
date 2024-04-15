@@ -835,7 +835,8 @@ msgstr ""
 
 msgctxt "9111e6398bec47ba902b1eb82c698bbe"
 msgid "ཐུགས་ ནི་ བདེ་ཆེན་ ཡེ་ཤེས་ སྙིང་པོ་ ཅན །།"
-msgstr "Their minds possess the essence of the wisdom of great bliss. "
+msgstr ""
+"Their minds possess the essence of the timeless wisdom of great bliss. "
 
 msgctxt "f047ce2b59e04711b24bacb0aef2fe11"
 msgid "ཐོགས་མེད་ ཐུགས་རྗེ་ ཡོན་ཏན་ འཕྲིན་ལས་ ཀྱིས །།"
