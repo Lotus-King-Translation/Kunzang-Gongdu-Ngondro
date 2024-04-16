@@ -1268,7 +1268,7 @@ msgstr ""
 
 msgctxt "1bb09dc767784b59b398f0087fbbdb94"
 msgid "ཀུན་བཟང་ དགོངས་ འདུས་ རྫོགས་པ་ ཆེ་␣འི །"
-msgstr ""
+msgstr "The Union of Samantabhadra's Enlightened Intent, Dzogchen's "
 
 msgctxt "b068498042364107ac83140af0705a22"
 msgid "ཐོགས་མེད་ སྒོ་ བྱེད་ སྔོན་འགྲོ་␣འི་ ཆོས །"
