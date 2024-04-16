@@ -1256,9 +1256,7 @@ msgstr "May the fruition be consummated in the basic ground. "
 
 msgctxt "b0871a394752474292de35cd4f98ded0"
 msgid "ཅེས་ དགེ་བ་ བསྔོས་ ཏེ་ སྨོན་ལམ་ གྱིས་ རྒྱས་ བཏབ་ ཅིང་ །"
-msgstr ""
-"So dedicating the virtue, seal it with apsiration. During all activities, do not neglect the yoga of the union of the two accumulations, and totally integrate a noble, lasting resolution. May the virtue accrued from clearly propounding this Dharma of the preliminary that initially opens the door to the Great Completion of The Union of Samantabhadra's Intentions bring fortunate ones the glory of maturation and liberation. In accordance with the wishes of Kunzang Pema Nampar Gyalwa, the ninth incarnation of Gyalse Pema Trinley and holder of the doctrine of the ancient Gangteng Sangngak Choling Monastery, with the intention to benefit the followers of this path, this easy-to-practice, pleasant liturgy has been composed using the perspective of Terdak Lingpa's guidance text, Lucid Essence, as a basis and included the legacy of speech of former liturgical practices. Composed by the world traveler, Jigdral Yeshe Dorje, [also known as Dudjom Rinpoche].\n"
-"May the long tradition of the path increase and pervade everywhere and through its exposure become the cause for ultimate ripening and liberation."
+msgstr "So dedicating the virtue, seal it with apsiration. "
 
 msgctxt "77d6ef9213af4b2f9412e2e3c9d52661"
 msgid ""
