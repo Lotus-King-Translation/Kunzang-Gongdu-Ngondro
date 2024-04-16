@@ -508,7 +508,7 @@ msgstr "From within emptiness, upon a white lotus and a moon, "
 
 msgctxt "1e43394f93f44198a64f2137416d8be3"
 msgid "རང་སེམས་ ཧཱུྃ་ ཡིག་དཀར་ གསལ་ ཡོངས་ གྱུར་པ །།"
-msgstr "one's own mind as the clear white letter HUM "
+msgstr "One's own mind as the clear white letter HUM "
 
 msgctxt "37175943f3a44d9789d93a619472a6b9"
 msgid "རྡོ་རྗེ་ སེམས་དཔའ་ དྲི་མེད་ སྟོན་ ཟླ་␣འི་ མདངས །"
