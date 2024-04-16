@@ -1276,7 +1276,7 @@ msgstr "foundational dharma that initially opens the door."
 
 msgctxt "9fbac02d333f402aa96b619aa6a20cfd"
 msgid "གསལ་ བདེ་␣ར་ སྤེལ་ ལ་␣ས་ ཐོབ་པ་␣འི་ དགེ"
-msgstr "the virtue accrued from clearly propounding"
+msgstr "The virtue accrued from clearly propounding [this],"
 
 msgctxt "e1cdd87d0c5148b4a70039d9ccbefffe"
 msgid "། སྐན་ ལྡན་ སྨིན་གྲོལ་ དཔལ་ དུ་ ཤོག"
