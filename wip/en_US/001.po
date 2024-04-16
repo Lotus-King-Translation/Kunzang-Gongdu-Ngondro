@@ -492,7 +492,7 @@ msgstr ""
 msgctxt "d46064e62fcf48d9975c1abaf57a4568"
 msgid "གསུམ་པ་ སྒྲིབ་ སྦྱོང་ རྡོར་ སེམས་ སྒོམ་བཟླས་ ནི །"
 msgstr ""
-"3. Purifying obscurations with Vajrasattva recitation and cultivation "
+"2.3. Purifying obscurations with Vajrasattva recitation and cultivation "
 
 msgctxt "c06fed0dcd9242d1a12dfdc0dd29c14e"
 msgid "ཨོཾ་ སྭ་ བྷཱ་ ཝ་ ཤུདྡྷ་␣༔ སརྦ་ དྷརྨ་ སྭ་ བྷཱ་ ཝ་ ཤུདྡྷོ྅ཧཾ །"
