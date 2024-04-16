@@ -1263,6 +1263,8 @@ msgid ""
 "སྤྱོད་ལམ་ ཀུན་ ཏུ་ ཚོགས་ གཉིས་ ཟུང་འཇུག་ གི་ རྣལ་འབྱོར་ ལས་མི་ འདའ་བ་␣ས་ "
 "གཏན་ གྱི་ འདུན་མ་ བཟང་པོ་ ཉམས་ འོག་ ཏུ་ ཚུད་པ་␣ར་ བྱ་␣འོ །།"
 msgstr ""
+"During all activities, do not neglect the yoga of the union of the two "
+"accumulations, and totally integrate a noble, lasting resolution. "
 
 msgctxt "1bb09dc767784b59b398f0087fbbdb94"
 msgid "ཀུན་བཟང་ དགོངས་ འདུས་ རྫོགས་པ་ ཆེ་␣འི །"
