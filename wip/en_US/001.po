@@ -274,7 +274,7 @@ msgstr "2.1. The gateway of the path, going for refuge"
 
 msgctxt "e1a2ad7fd8db48438741556e55afb616"
 msgid "ཐོག་མ་␣ར་ སྐྱབས་ཡུལ་ གསལ་ གདབ་པ་ ལ །"
-msgstr ""
+msgstr "Start by establishing the objects of refuge clearly."
 
 msgctxt "b2b6a89ef06549e0a9aea44268433baf"
 msgid "རང་ཉིད་ གནས་པ་␣འི་ ས་ཕྱོགས་ འདི་དག་ ཀུན །།"
