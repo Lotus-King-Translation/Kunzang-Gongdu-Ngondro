@@ -1280,7 +1280,7 @@ msgstr "Dharma of the preliminary that initially opens the door to"
 
 msgctxt "9fbac02d333f402aa96b619aa6a20cfd"
 msgid "གསལ་ བདེ་␣ར་ སྤེལ་ ལ་␣ས་ ཐོབ་པ་␣འི་ དགེ"
-msgstr ""
+msgstr "the virtue accrued from clearly propounding"
 
 msgctxt "e1cdd87d0c5148b4a70039d9ccbefffe"
 msgid "། སྐན་ ལྡན་ སྨིན་གྲོལ་ དཔལ་ དུ་ ཤོག"
