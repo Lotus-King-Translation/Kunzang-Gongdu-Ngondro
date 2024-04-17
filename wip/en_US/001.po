@@ -86,7 +86,7 @@ msgstr "And bestow the powers of body, speech and mind. "
 
 msgctxt "e80298590ddb454dbab7e7d7fabe33f7"
 msgid "ཞེས་ དང །"
-msgstr "That said,"
+msgstr "Having said that,"
 
 msgctxt "22583812a8bd4440ad4aee0f24c22858"
 msgid "དུས་གསུམ་ སངས་རྒྱས་ ཐམས་ཅད་ ཀྱི་ ངོ་བོ་ བླ་མ་ རིན་པོ་ཆེ་ མཁྱེན །།"
