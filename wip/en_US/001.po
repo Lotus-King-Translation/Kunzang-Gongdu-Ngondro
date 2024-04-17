@@ -1306,7 +1306,7 @@ msgctxt "c655d1e7b6f648d986d7453f33540b25"
 msgid ""
 "སྔར་ གྱི་ ཆོས་སྤྱོད་ གསུང་རྒྱུན་ དག་ ལ་␣ས་ འཇུག་ བདེ་␣འི་ ངག་འདོན་ བཅུད་ དུ་"
 " དྲིལ་ ཏེ །"
-msgstr "this easy-to-practice, pleasant liturgy has been composed using "
+msgstr "This easy-to-practice, pleasant liturgy was composed. "
 
 msgctxt "5321ee5e48bc497d939c38d747cc18c3"
 msgid ""
