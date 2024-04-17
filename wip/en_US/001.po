@@ -1228,7 +1228,7 @@ msgstr "By this virtue of pure intrinsic nature,"
 
 msgctxt "ad407ff0638b409f9958cc355a21800e"
 msgid "འཁོར་བ་ ངན་སོང་ དོང་ སྤྲུགས་ ནསཿ"
-msgstr "May samsara be shaken from the depths of the lower realms "
+msgstr "Samsara is shaken from the depths of the lower realms "
 
 msgctxt "6432fbf6c18840ffab0b62f5810e4128"
 msgid "སྲིད་ ན་ འགའ་ཡང་ མི་ གནས་ པརཿ་␣༔"
