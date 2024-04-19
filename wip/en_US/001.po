@@ -46,7 +46,7 @@ msgstr "In this [first section] there are two parts: "
 
 msgctxt "6f23a76f94bc43a094a3ddcc0caa54e4"
 msgid "ཐུན་ སྤྱི་␣འི་ སྔོན་འགྲོ་ དང༌ །"
-msgstr "Beginning the foundational practice session [1.1], and "
+msgstr "Foundational practice of the ordinary [1.1], and "
 
 msgctxt "3b126e92cbdb4e47abc78b5197553afe"
 msgid "སྐཔས་ དོན་ སྒོས་ ཀྱི་ སྔོན་འགྲོ་␣འོ །"
