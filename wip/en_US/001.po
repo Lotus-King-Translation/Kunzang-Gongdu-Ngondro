@@ -73,7 +73,7 @@ msgstr "Glorious, precious root lama, "
 
 msgctxt "dfb992627ea543a1aa933de9ac2a5de0"
 msgid "བདག་ གི་ སྤྱི་བོ་␣ར་ པད་ ཟླ་␣འི་ གདན་ བཞུགས་ ལ །།"
-msgstr "Seated on a lotus and moon seat above my head, "
+msgstr "Seated above my head on a moon on lotus seat, "
 
 msgctxt "d8452b1ec72a43ec8c5aabf247f314d4"
 msgid "བཀའ་དྲིན་ ཆེན་པོ་␣འི་ སྒོ་ ནས་ རྗེས་བཟུང་ སྟེ །།"
