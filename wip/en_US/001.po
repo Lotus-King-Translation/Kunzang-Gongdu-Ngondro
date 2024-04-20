@@ -239,7 +239,7 @@ msgstr "Desire happiness but achieve only dissatisfaction. "
 
 msgctxt "e2598abd50b044cda0b81be2bfab052e"
 msgid "ཐར་ མེད་ འཁོར་བ་␣ར་ འཁྱམས་པ་ སྙིང་ རེ་ རྗེ །།"
-msgstr "How pitiful they are, wandering without escape in samsara. "
+msgstr "How pitiful they are, wandering without escape in cyclic existence. "
 
 msgctxt "e140a457723042b39f4d51141ad84462"
 msgid "འདི་ རྣམས་ བདེ་ལྡན་ སྡུག་བསྔལ་ བྲལ་བ་ དང །།"
