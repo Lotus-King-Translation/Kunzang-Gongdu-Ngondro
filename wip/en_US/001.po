@@ -130,7 +130,7 @@ msgstr ""
 
 msgctxt "7fe40ae736594d7696e6c2ad54528e4e"
 msgid "ཐུན་མོང་ དང །  ཁྱད་པར་ གཉིས་ ཀྱི །"
-msgstr "The common [1.2.1] and the special [2.1 through 2.5]."
+msgstr "The ordinary [1.2.1] and the special [2.1 through 2.5]."
 
 msgctxt "096690c1151f47788decc2f7be032285"
 msgid "དང་པོ་ ཐུན་མོང་ བློ་ ལྡོག་ རྣམ་པ་ བཞི་␣ས་ རྒྱུད་ སྦྱོང་བ་ ནི །"
