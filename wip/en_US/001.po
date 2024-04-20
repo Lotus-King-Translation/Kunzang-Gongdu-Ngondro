@@ -1078,7 +1078,7 @@ msgstr "Bless me so all the visions subside into dharmata. "
 
 msgctxt "0b48bb899c2249ac95aa7ddf54903ccf"
 msgid "མཆོག་ དང་ ཐུན་མོང་ དངོས་གྲུབ་ སྩོལ་␣༔"
-msgstr "Bestow the ordinary and supreme siddhis. "
+msgstr "Bestow the ordinary and the actual siddhis. "
 
 msgctxt "2070a5a4502d428f8e9c2242c3b7f78a"
 msgid "ཞེས་ བརྒྱ་ སྟོང་ སོགས་ གྲངས་ ཅི་ ནུས་ ཀྱིས་ གསོལ་བ་ བཏབ་པ་␣ས །"
