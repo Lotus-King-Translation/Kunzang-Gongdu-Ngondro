@@ -81,7 +81,7 @@ msgstr "By accepting with great kindness, "
 
 msgctxt "2e5b5c92d4134a70b826ba975bfc9228"
 msgid "སྐུ་གསུང་ཐུགས་ ཀྱི་ དངོས་གྲུབ་ སྩལ་ དུ་ གསོལ །།"
-msgstr "Bestow the powers of body, speech and mind. "
+msgstr "Please bestow the powers of body, speech and mind. "
 
 msgctxt "e80298590ddb454dbab7e7d7fabe33f7"
 msgid "ཞེས་ དང །"
