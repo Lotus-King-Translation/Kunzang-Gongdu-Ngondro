@@ -94,7 +94,7 @@ msgstr ""
 
 msgctxt "1f807f9cbe64448c95668c21bc1703bb"
 msgid "བདག་ གི་ རྒྱུད་ སྨིན་ ཅིང་ གྲོལ་བ་␣ར་ བྱིན་ གྱིས་ བརླབ་ དུ་ གསོལ །།"
-msgstr "Grant the blessing of ripening and liberating my being. "
+msgstr "Grant the blessing [of] liberation by ripening my continuum. "
 
 msgctxt "4a4f9e147c9845a69378308bdcac6fe7"
 msgid ""
