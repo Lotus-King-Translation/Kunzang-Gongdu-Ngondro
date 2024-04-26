@@ -153,7 +153,7 @@ msgstr "If this benefit is not accomplished now, "
 
 msgctxt "3b612b7ca5ed45379d6ce4875b23a0a0"
 msgid "ཕྱིས་ འདི་ ཡང་དག་ འབྱོར་པ་␣ར་ ག་ལ་ འགྱུར །།"
-msgstr "How will this perfect opportunity ever come again? "
+msgstr "How then could this genuine connection occur [again]?"
 
 msgctxt "ea42bcb20c194a11a1d2422b274faa35"
 msgid "སྲིད་ གསུམ་ མི་རྟག་ སྟོན་ཀ་␣འི་ སྤྲིན་ དང་ འདྲ །།"
