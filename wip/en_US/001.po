@@ -161,7 +161,7 @@ msgstr "The three existences are impermanent, like autumn clouds. "
 
 msgctxt "e6796dd414d14ac8b523be181fb5debd"
 msgid "འགྲོ་བ་␣འི་ སྐྱེ་འཆི་ གར་ ལ་ བལྟ་ དང་ མཚུངས །།"
-msgstr "The births and deaths of beings are like watching a play. "
+msgstr "The births and deaths of beings are like watching theatre. "
 
 msgctxt "26ebf4bb6a5747ce940424c5072f9f4c"
 msgid "སྐྱེས་བུ་␣འི་ ཚེ་འགྲོ་ ནམ་མཁ་␣འི་ གློག་ འདྲ་ སྟེ །།"
