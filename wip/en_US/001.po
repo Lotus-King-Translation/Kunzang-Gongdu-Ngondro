@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "dc5c56e9067e4fccbaa8bc215fcab1f6"
 msgid "འདི་ ན་ འཆི་མེད་ རབ་ འབར་ མགོན་མེད་ དེ །།"
-msgstr "Here, in this endless, excruciating, helpless state, "
+msgstr "Here, in this blazing endless protectorless state, "
 
 msgctxt "6ec366dfb23f422cbd9c1b1acaccfbd2"
 msgid "སྲིད་ ལ་␣ས་ བྱུང་ ལ་ འགྲོ་བ་ རྟག་ ཏུ་ རྨོངས །།"
