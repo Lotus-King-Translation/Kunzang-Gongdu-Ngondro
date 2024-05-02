@@ -226,7 +226,7 @@ msgid ""
 "ཞེས་པ་ རྣམས་ ངག་ དུ་ བརྗོད་པ་␣འམ་ མ་ བརྗོད་ ཀྱང་ རུང་ སྟེ་ དོན་ ཡིད་ ལ་ "
 "བསམ་པ་␣ས་ སྣ་ དྲངས་ ནས །"
 msgstr ""
-"Whether these are said out loud or not, direct the thought to contemplating their meaning.\n"
+"Whether these are said out loud or not, direct the thought to contemplating [their] meaning.\n"
 "[Next, The Four Immeasurable]."
 
 msgctxt "f8583c5d5f0949fa85ed6b4cc2320831"
