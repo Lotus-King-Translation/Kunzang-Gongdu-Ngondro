@@ -234,7 +234,7 @@ msgid "མཁའ་ཁྱབ་ འགྲོ་ ཀུན་བདག་ གི�
 msgstr ""
 "[1.2.1 The Four Immeasurable]\n"
 "\n"
-"Fathers and mothers, all beings pervading space, "
+"My fathers and mothers, all beings pervading space, "
 
 msgctxt "588ae0283bfb4eb293eecb904a59d5fa"
 msgid "བདེ་བ་ འདོད་ ཀྱང་ སྡུག་བསྔལ་ འབའ་ཞིག་ སྒྲུབ །།"
