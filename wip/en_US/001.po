@@ -254,7 +254,7 @@ msgstr "Obtain supreme ease and ཆེ་ར་འགོད་ཕྱིར equan
 
 msgctxt "0a25e70ccdc040c98d0bc046e4bcdd76"
 msgid "ཟབ་ ལམ་ ཉམས་ལེན་ མཐའ་ རུ་ དབྱུང་བ་␣ར་ བགྱི །།"
-msgstr "[I will] bring the practices of the profound path to its completion."
+msgstr "[I will] draw to conclusion the practices of the profound path."
 
 msgctxt "a24fc387f904438b8679711b0acb35f8"
 msgid ""
