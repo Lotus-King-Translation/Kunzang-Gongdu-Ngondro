@@ -308,7 +308,7 @@ msgstr "On a multi-colored lotus, sun and moon seat,"
 
 msgctxt "7d729f8ed649409095528a674eded911"
 msgid "བཀའ་དྲིན་ མཚུངས་མེད་ རྩ་བ་␣འི་ བླ་མ་ ཉིད །།"
-msgstr "Upon that is the incomparably kind root lama, "
+msgstr "[Sits] the incomparably kind root lama, "
 
 msgctxt "d17e7f95c15941d6b1fa3cda87896b15"
 msgid "གང་ འདུལ་ མོས་ ངོ་␣ར་ ཅིར་ ཡང་ འཆར་བ་␣འི་ ཚུལ །།"
