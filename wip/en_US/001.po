@@ -284,7 +284,7 @@ msgstr "This place where I am, the entire area, "
 
 msgctxt "eeb05fb6777a479da8e32755042fa872"
 msgid "དག་པ་␣འི་ ཞིང་ཁམས་ མཚན་ཉིད་ ཡོངས་རྫོགས་ དབུས །།"
-msgstr "Is the pure field with its totally complete characteristics. "
+msgstr "Is the pure field with its totally complete characteristics. དབུས"
 
 msgctxt "36a2534e46ca4cb98ea4fbfe7d9ee2a7"
 msgid "དཔག་བསམ་ སྡོང་པོ་ ཡལ་ག་ ལྔ་ལྡན་པ །།"
