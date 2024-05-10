@@ -272,7 +272,7 @@ msgstr ""
 
 msgctxt "7a7c40ae80d34d21a37c0e13d65e7a15"
 msgid "དང་པོ་ ལམ་ གྱི་ འཇུག་ སྒོ་ སྐྱབས་ སུ་ འགྲོ་བ་ ནི །"
-msgstr "2.1. The gateway of the path, going for refuge"
+msgstr "2.1. The foundation of the path, going for refuge"
 
 msgctxt "e1a2ad7fd8db48438741556e55afb616"
 msgid "ཐོག་མ་␣ར་ སྐྱབས་ཡུལ་ གསལ་ གདབ་པ་ ལ །"
