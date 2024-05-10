@@ -296,7 +296,7 @@ msgstr "By its perfectly complete profuse foliage, flowers and fruit, "
 
 msgctxt "e370755319b044b099581033787ebcb1"
 msgid "ནམ་མཁའ་ གང་བ་␣ར་ རབ་ཏུ་ གཏམས་པ་ ཡིས །།"
-msgstr "The space is completely filled."
+msgstr "The space becomes utterly filled."
 
 msgctxt "69dd557c70ce4ba3bf0498c51b475612"
 msgid "དབུས་ ཀྱི་ ཡལ་ག་␣ར་ རིན་ཆེན་ སེང་གེ་␣འི་ ཁྲི །།"
