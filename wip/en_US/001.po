@@ -357,7 +357,7 @@ msgstr ""
 
 msgctxt "a0130c3f614e432982e055ca61aaeede"
 msgid "རྒྱུད་སྡེ་ བཞི་ དྲུག་ ཡི་དམ་ ལྷ་ཚོགས་ དང་ །།"
-msgstr "Surrounded by the yidam deities of the four and six tantra sections, "
+msgstr "[And] the yidam deities of the four and six tantra sections, "
 
 msgctxt "2512c9c5b7674a40b9595818a46658e2"
 msgid "མཐའ་ བསྐོར་ མཁའ་འགྲོ་ ཆོས་སྐྱོང་ ཚོགས་ ཀྱིས་ བསྐོར །།"
