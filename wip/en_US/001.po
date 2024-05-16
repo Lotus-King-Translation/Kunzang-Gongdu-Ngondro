@@ -382,8 +382,6 @@ msgstr "To self and all beings, [as mother's] only child,"
 msgctxt "09236a28c35c4093b30acc748e1684f1"
 msgid "དགྱེས་ ཤིང་ བརྩེ་བ་␣ས་ དགོངས་ ཏེ་ བཞུགས་པ་␣ར་ གྱུར །།"
 msgstr ""
-"They regard me and all beings with joy and loving kindness as a mother does "
-"an only child. "
 
 msgctxt "8e68988f00dd4d31a955fff1dab8fd74"
 msgid "ཞེས་ སྐྱབས་ཡུལ་ གསལ་བཏབ་ ནས །"
