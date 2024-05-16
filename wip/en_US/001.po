@@ -329,7 +329,7 @@ msgstr "On the right branch, the Mighty Adept, "
 
 msgctxt "db781fe04605459fafa23eb55d734306"
 msgid "ཕྱོགས་ བཅུ་␣འི་ བདེ་གཤེགས་ སངས་རྒྱས་ ཚོགས་ ཀྱིས་ བསྐོར །།"
-msgstr "Is surrounded by an ocean of tathagata buddhas of the three times. "
+msgstr "[With] a gathering of tathagata buddhas. "
 
 msgctxt "5967fc93ec724075aff27b97a63e65b6"
 msgid "རྒྱབ་ ཀྱི་ ཡལ་ག་␣ར་ དམ་ཆོས་ དཀོན་མཆོག་ ནི །།"
