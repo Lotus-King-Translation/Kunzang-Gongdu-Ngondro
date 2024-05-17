@@ -483,7 +483,7 @@ msgid ""
 "ཞེས་ སྨོན་ འཇུག་ གི་ བདག་ཉིད་ ཅན་ ལ་ སློབ་པ་ ཀུན་རྫོབ་ སེམས་བསྐྱེད་ དང་ །"
 msgstr ""
 "The training in the aspects of wishful and engaging bodhichitta is the "
-"fictional engendering of aspiration,"
+"fictional creation of aspiration,"
 
 msgctxt "17d86f78585349c8b83ec27bfcee1b62"
 msgid ""
