@@ -595,7 +595,7 @@ msgid ""
 msgstr ""
 "With the visualization, repeat the hundred syllable mantra OM VAJRA SATTVA "
 "SAMAYA etc., and the heart mantra OM VAJRA SATTVA AH as much as you can. "
-"This is the relative causal practice. "
+"This is the fictional causal practice. "
 
 msgctxt "ac6fede85e514a05ba8ec432311d5419"
 msgid "མཐ་␣ར །"
