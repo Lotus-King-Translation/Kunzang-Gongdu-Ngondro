@@ -483,7 +483,7 @@ msgid ""
 "ཞེས་ སྨོན་ འཇུག་ གི་ བདག་ཉིད་ ཅན་ ལ་ སློབ་པ་ ཀུན་རྫོབ་ སེམས་བསྐྱེད་ དང་ །"
 msgstr ""
 "The training in the aspects of aspiring and engaging is the fictional "
-"creation of [mind of enlightenment],"
+"practice of creation of [mind of enlightenment],"
 
 msgctxt "17d86f78585349c8b83ec27bfcee1b62"
 msgid ""
