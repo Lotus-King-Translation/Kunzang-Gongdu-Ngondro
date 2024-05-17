@@ -472,7 +472,7 @@ msgstr "The body of the five timeless wisdom lights complete, "
 
 msgctxt "9da1b3b8bf4d4a1b994392f7284c96db"
 msgid "ཐིག་ལེ་ རྣམ་དག་ རྫོགས་ ལྡན་ ལ་␣༔"
-msgstr "The completely pure and perfect sphere, "
+msgstr "The completely pure and complete bindu, "
 
 msgctxt "9fa76eab12b34689b0b29054bc94e042"
 msgid "རང་གྲོལ་ ཆེན་པོ་␣ར་ སེམས་བསྐྱེད་ དོ་␣༔"
