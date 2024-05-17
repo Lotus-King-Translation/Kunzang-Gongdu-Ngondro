@@ -446,7 +446,7 @@ msgid ""
 "མཉམ་པ་␣ར་ བཞག་པ་ དོན་དམ་ འབྲས་བུ་␣འི་ སྐྱབས་འགྲོ་␣འོ །"
 msgstr ""
 "One's own mind and the objects of refuge inseparable, resting in evenness in"
-" a state free from elaboration, awareness emptiness. This is the "
+" a state free from elaboration, awareness-emptiness. This is the "
 "superfactual, fruitional refuge."
 
 msgctxt "d2ed860f48554f7aa87d7558fac6ebd7"
