@@ -424,7 +424,7 @@ msgstr "Afterwards: "
 
 msgctxt "170679f9585b4a428b6d37a55cdee961"
 msgid "སྐྱབས་ཡུལ་ རྣམས་ ལ་␣ས་ འོད་ཟེར་ དཔག་ཡས་ བྱུང༌ །།"
-msgstr "Boundless light arises from the objects of refuge "
+msgstr "Measureless light rays arises from the objects of refuge "
 
 msgctxt "83443bd1ba0e41a4aea7df799d32efb7"
 msgid "སེམས་ཅན་ མ་ ལུས་ དག་པ་␣འི་ ཞིང་ དུ་ དྲངས །།"
