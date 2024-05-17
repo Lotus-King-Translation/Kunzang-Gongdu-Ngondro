@@ -476,7 +476,7 @@ msgstr "The completely pure and complete bindu, "
 
 msgctxt "9fa76eab12b34689b0b29054bc94e042"
 msgid "རང་གྲོལ་ ཆེན་པོ་␣ར་ སེམས་བསྐྱེད་ དོ་␣༔"
-msgstr "Within this state of great self-liberation, I generate bodhichitta. "
+msgstr "In great self-liberation, I generate mind [of enlightenment]. "
 
 msgctxt "68f18c24b5f743c3bfa5caccfd4a2e57"
 msgid ""
