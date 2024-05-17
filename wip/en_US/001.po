@@ -491,7 +491,7 @@ msgid ""
 "འཇོག་པ་ དོན་དམ་ སེམས་བསྐྱེད་ དོ །"
 msgstr ""
 "and thinking, \"I actualize timeless wisdom,\" abiding in the state of mind "
-"without root, is the absolute engendering of aspiration. "
+"without root, is the superfactual engendering of aspiration. "
 
 msgctxt "d46064e62fcf48d9975c1abaf57a4568"
 msgid "གསུམ་པ་ སྒྲིབ་ སྦྱོང་ རྡོར་ སེམས་ སྒོམ་བཟླས་ ནི །"
