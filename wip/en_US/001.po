@@ -385,7 +385,7 @@ msgstr "Arise a firm intention, through affectionate delight."
 
 msgctxt "8e68988f00dd4d31a955fff1dab8fd74"
 msgid "ཞེས་ སྐྱབས་ཡུལ་ གསལ་བཏབ་ ནས །"
-msgstr "Having clearly visualized these objects of refuge, "
+msgstr "Having clearly visualized the objects of refuge, "
 
 msgctxt "b68d4909c8b04824b88c8e87336064d7"
 msgid ""
