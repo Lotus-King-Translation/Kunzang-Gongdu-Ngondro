@@ -416,7 +416,7 @@ msgid ""
 "རྒྱུ་␣འི་ སྐྱབས་འགྲོ་ དང༌ །"
 msgstr ""
 "Engaging body, speech and mind together, do the refuge as much as you can. "
-"This is the relative, causal refuge. "
+"This is the fictional, causal refuge. "
 
 msgctxt "bee4052ba7c9406da9697e75c0998734"
 msgid "མཐ་␣ར །"
