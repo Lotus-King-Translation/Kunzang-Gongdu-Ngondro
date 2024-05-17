@@ -757,7 +757,7 @@ msgid ""
 "ཧཱུྃ་ གི་ རྣམ་པ་␣ས་ རང་ ལ་ བསྡུས་ ཏེ་ འཁོར་གསུམ་ མི་ དམིགས་པ་␣འི་ ངང་ ལ་ "
 "འཇོག་པ་ དོན་དམ་ འབྲས་བུ་␣འི་ ཚོགས་ བསགས་ སོ །།"
 msgstr ""
-"This offering of as many as possible fields of the three kayas is the relative causal accumulation. Afterwards, the field of accumulation together with articles of offering dissolve into light, and in the form of a letter HUM are gathered into oneself. Abiding within this state without conceiving of the three cycles of offerer, offering, and recipients is the superfactual, fruitional accumulation. \n"
+"This offering of as many as possible fields of the three kayas is the fictional causal accumulation. Afterwards, the field of accumulation together with articles of offering dissolve into light, and in the form of a letter HUM are gathered into oneself. Abiding within this state without conceiving of the three cycles of offerer, offering, and recipients is the superfactual, fruitional accumulation. \n"
 "If you cannot accumulate the Three Kayas Mandala Offering, then use the Short Mandala Offering: "
 
 msgctxt "8245652835f24a3498b15ae5af8514c1"
