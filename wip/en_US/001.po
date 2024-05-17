@@ -447,7 +447,7 @@ msgid ""
 msgstr ""
 "Rest in equipoise with the objects of refuge and one's own mind inseparable "
 "within the utter simplicity of awareness-emptiness. This is the "
-"superfaction, fruitional refuge. "
+"superfactual, fruitional refuge. "
 
 msgctxt "d2ed860f48554f7aa87d7558fac6ebd7"
 msgid "གཉིས་པ་ སེམས་བསྐྱེད་པ་ ནི །"
