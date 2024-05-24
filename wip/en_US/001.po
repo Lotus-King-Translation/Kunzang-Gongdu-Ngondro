@@ -608,7 +608,7 @@ msgstr "The appearing aspects of deity and mantra all dissolve into oneself. "
 
 msgctxt "d9daf4fb0039451388eb916caf25a5c5"
 msgid "རང་ཉིད་ རྡོར་ སེམས་ མེ་ལོང་ གཟུགས་བརྙན་ ལྟར །།"
-msgstr "I am Vajrasattva, appearing like a reflection in a mirror, "
+msgstr "Oneself as Vajrasattva, appearing like a reflection in a mirror, "
 
 msgctxt "5d09201c05fa42c2bf9e0ce697a886db"
 msgid "གསལ་ ལ་ རྙོག་ མེད་ རང་བབས་ གདོད་མ་␣འི་ གཤིས །།"
