@@ -1124,7 +1124,7 @@ msgstr "White light shines from the OM in the lama's forehead, "
 
 msgctxt "91cc72779f024d3797f9b935d4233f15"
 msgid "རང་ གི་ དཔྲལ་བ་␣ར་ ཐིམ །"
-msgstr "[It] is absorbed into my own forehead, "
+msgstr "[It] is dissolved into my own forehead, "
 
 msgctxt "c9d334c09cd243e69d33e1c384db3b7b"
 msgid "ལུས་ ཀྱི་ སྒྲིབ་པ་ སྦྱངས །"
