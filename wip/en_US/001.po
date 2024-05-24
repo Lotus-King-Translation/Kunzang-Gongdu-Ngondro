@@ -604,7 +604,7 @@ msgstr "To conclude, [continue]"
 
 msgctxt "19264baaca434b3a9c03f33dd0ad3c57"
 msgid "ལྷ་ སྔགས་ སྣང་ ཆ་␣འི་ དངོས་ ཀུན་ རང་ ལ་ ཐིམ །།"
-msgstr "The appearing aspects of deity and mantra absorb into me. "
+msgstr "The appearing aspects of deity and mantra dissolve into me. "
 
 msgctxt "d9daf4fb0039451388eb916caf25a5c5"
 msgid "རང་ཉིད་ རྡོར་ སེམས་ མེ་ལོང་ གཟུགས་བརྙན་ ལྟར །།"
