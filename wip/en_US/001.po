@@ -1148,7 +1148,7 @@ msgstr "Red light shines from the AH in the lama's throat, "
 
 msgctxt "618b7da0586e4959b60de1e295c32fb4"
 msgid "རང་ གྱི་ མགྲིན་པ་␣ར་ ཐིམ །"
-msgstr "[It] is absorbed into my own throat "
+msgstr "[It] is dissolved into my own throat "
 
 msgctxt "4f15b4ff736a40c88dbbbe19aaf7a07d"
 msgid "ངག་ གི་ སྒྲིབ་པ་ སྦྱངས །"
