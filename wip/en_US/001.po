@@ -663,7 +663,7 @@ msgstr ""
 
 msgctxt "db8bf4302b3b44bfb75d5f8811770330"
 msgid "གའུ་ ཁ་སྦྱོར་ དབྱིངས་ ཀྱི་ མནྜལ་ འབུལ་␣༔"
-msgstr "I offer the mandala of basic space in the joined gau. "
+msgstr "Offer the mandala of basic space, conjoined amulet. "
 
 msgctxt "21b586b25e8b49c58318aa23f73fe7e7"
 msgid "ཞེས་ བླ་མ་ ཆོས་སྐུ་␣ར་ འབུལ །"
