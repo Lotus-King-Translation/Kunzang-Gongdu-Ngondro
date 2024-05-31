@@ -644,7 +644,7 @@ msgid ""
 "ཚོམ་བུ་ ལྔ་ བཀོད་ དེ །"
 msgstr ""
 "Clean off a jewelled or other mandala base and place five heaps of jewels, "
-"grains, herbs, and such. "
+"grains, herbs, and such."
 
 msgctxt "b058bd20d5d7459686fb3c4204873d0e"
 msgid "ན་མོ་␣༔  གདོད་མ་␣འི་ ཞིང་ཁམས་ རྣམ་པ་␣ར་ དག་པ་ རུ་␣༔"
