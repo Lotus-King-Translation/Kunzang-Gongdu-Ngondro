@@ -1062,7 +1062,7 @@ msgstr "Bless my mind with realization. "
 
 msgctxt "78c7f642e6f74e3986fd1a4c552424c1"
 msgid "གནས་ལུགས་ རྟོགས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
-msgstr "Bless me to realize the true nature. "
+msgstr "Bless me to realize the way it is. "
 
 msgctxt "ca845398ec4a4dcfbe5d06d61b2148bb"
 msgid "མཐོང་ རྐྱེན་ རྒྱས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
