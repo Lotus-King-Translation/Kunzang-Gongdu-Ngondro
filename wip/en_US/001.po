@@ -728,7 +728,7 @@ msgstr "Offer the dharmakaya mandala of emptiness and compassion. "
 
 msgctxt "c6eaaaa9c2814aafaf5e63e2560b7078"
 msgid "ལོངས་སྐུ་␣འི་ མནྜལ་ མ་ འགག་␣ས་ རང་ གསལ་ འབུལ་␣༔"
-msgstr "I offer the sambhogakaya mandala of unimpeded, innate luminosity. "
+msgstr "Offer the sambhogakaya mandala of unceasing self-luminosity. "
 
 msgctxt "f7648230a7f443c583006aaa76a4fbe1"
 msgid "སྤྲུལ་སྐུ་␣འི་ མནྜལ་ སྣ་ཚོགས་ ཡིད་འོང་ འབུལ་␣༔"
