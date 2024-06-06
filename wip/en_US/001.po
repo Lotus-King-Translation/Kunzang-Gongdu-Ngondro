@@ -769,7 +769,7 @@ msgstr ""
 "\n"
 "In the state without the three objective spheres, is the superfactual, fruitional accumulation. \n"
 "\n"
-"If you cannot accumulate the Three Kayas Mandala Offering, then use the Short Mandala Offering: "
+"[If you cannot accumulate the Three Kayas Mandala Offering, then use the Short Mandala Offering:]"
 
 msgctxt "8245652835f24a3498b15ae5af8514c1"
 msgid "ས་གཞི་ སྤོས་ ཀྱིས་ བྱུག་ ཤིང་ མེ་ཏོག་ བཀྲམ །།"
