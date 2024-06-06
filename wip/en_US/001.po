@@ -705,7 +705,7 @@ msgstr "In the field of three-thousand fold world [called] Endurance."
 
 msgctxt "6abf8276df0d48008f80aaea6920c673"
 msgid "བྱེ་བ་ ཕྲག་ བརྒྱ་ འཛམ་གླིང་ ཚོམ་བུ་␣ར་ བཀོད་␣༔"
-msgstr "The heaps of a billion Earths are arrayed, "
+msgstr "Heaps of a ten million Earths are arrayed, "
 
 msgctxt "443ddb1ba7a341f1bb526063561b379f"
 msgid "འབྱུང་ བཞི་ རང་སྣང་ ལྕགས་རི་ མུ་ཁྱུད་ བཅས་␣༔"
