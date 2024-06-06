@@ -671,7 +671,7 @@ msgstr "That is the offering to the dharmakaya lama. "
 
 msgctxt "8a7840283f9149bfa207eab7cfe7545e"
 msgid "ཡང་ ཚོམ་བུ་ ལྔ་ བཀོད་ ལ །"
-msgstr "Again place the five heaps. "
+msgstr "Again arrange the five heaps. "
 
 msgctxt "50b8c858cf72429482c055c93d3ee5a9"
 msgid "དབྱིངས་ ཀྱི་ དཀྱིལ་འཁོར་ རྣམ་པ་␣ར་ དག་པ་ རུ་␣༔"
