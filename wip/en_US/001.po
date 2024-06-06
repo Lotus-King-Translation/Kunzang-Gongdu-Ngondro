@@ -746,7 +746,7 @@ msgstr "Mandalas of divine substances are arrayed,"
 
 msgctxt "1585a63db86f4fdf879082617946ec8c"
 msgid "སྐྱབས་གནས་ གུ་རུ་ ཡི་དམ་ ལྷ་ ལ་ འབུལ་␣༔"
-msgstr "I offer to the source of refuge, the guru and yidam deities. "
+msgstr "I offer to the place of refuge, the guru and yidam deities. "
 
 msgctxt "ee92af40e0474f9686bde740e45aa19c"
 msgid "ཐུགས་རྗེ་␣ས་ འགྲོ་བ་␣འི་ དོན་ དུ་ བཞེས་ སུ་ གསོལ་␣༔"
