@@ -742,7 +742,7 @@ msgstr ""
 
 msgctxt "6d463b6ed31f46ba91916050aba29cb0"
 msgid "ལྷ་རྫས་ མཆོག་ གི་ མནྜལ་ བཀོད་པ་ རྣམས་␣༔"
-msgstr "All the mandala displays of excellent divine articles are arrayed, "
+msgstr "Mandalas of divine substances are arrayed,"
 
 msgctxt "1585a63db86f4fdf879082617946ec8c"
 msgid "སྐྱབས་གནས་ གུ་རུ་ ཡི་དམ་ ལྷ་ ལ་ འབུལ་␣༔"
