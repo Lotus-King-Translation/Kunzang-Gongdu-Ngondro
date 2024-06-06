@@ -732,7 +732,7 @@ msgstr "Offer the sambhogakaya mandala of unceasing self-luminosity. "
 
 msgctxt "f7648230a7f443c583006aaa76a4fbe1"
 msgid "སྤྲུལ་སྐུ་␣འི་ མནྜལ་ སྣ་ཚོགས་ ཡིད་འོང་ འབུལ་␣༔"
-msgstr "I offer the nirmanakaya mandala of various pleasing things. "
+msgstr "Offer the nirmanakaya mandala of various pleasing things. "
 
 msgctxt "751791243b8f425296f49f74a8b27f7b"
 msgid "སྟོང་གསུམ་ འདི་␣འམ་ སྟོང་གསུམ་ གཞན་དག་ ན་␣༔"
