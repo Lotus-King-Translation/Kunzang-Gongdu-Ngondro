@@ -718,7 +718,9 @@ msgstr "Offer them to the nirmanakaya, pure appearance of awareness. "
 
 msgctxt "fe38e4bff97f4411af0853dfbd6c3efa"
 msgid "ཞེས་ བླ་མ་ སྤྲུལ་སྐུ་␣ར་ ཕུལ་ ནས །  སླར་ཡང་ ཚོམ་བུ་ གསོ་ བཞིན་ དུ །"
-msgstr "After offering that to the nirmanakaya lama, replenish the heaps. "
+msgstr ""
+"Having offered [in such a way] to the nirmanakaya lama, once again, "
+"replenish the heaps. "
 
 msgctxt "48537e991af74eb5b169404b22961934"
 msgid "ཆོས་སྐུ་␣འི་ མནྜལ་ སྟོང་ཉིད་ སྙིང་རྗེ་ འབུལ་␣༔"
