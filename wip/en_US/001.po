@@ -687,7 +687,7 @@ msgstr "To all complete sambhogakaya lamas,"
 
 msgctxt "5294f6038a854c95bb5f67f724b8635a"
 msgid "སྣང་བ་ བཀོད་པ་ ཆེན་པོ་␣འི་ མནྜལ་ འབུལ་␣༔"
-msgstr "I offer the mandala of the great array of appearances. "
+msgstr "Offer the mandala of the great array of appearances. "
 
 msgctxt "28bc7b7e308a45b49d391f3688d1cb3d"
 msgid "ཞེས་ བླ་མ་ ལོངས་སྐུ་␣ར་ འབུལ །"
