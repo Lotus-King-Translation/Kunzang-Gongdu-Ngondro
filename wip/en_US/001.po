@@ -683,7 +683,7 @@ msgstr "The heaps of light of the self-luminous bindu are arranged. "
 
 msgctxt "27aa1491342644eda398fd2e7844d35a"
 msgid "བླ་མ་ ལོངས་སྤྱོད་ རྫོགས་པ་␣འི་ སྐུ་ རྣམས་ ལ་␣༔"
-msgstr "To all sambhogakaya lamas,"
+msgstr "To all complete sambhogakaya lamas,"
 
 msgctxt "5294f6038a854c95bb5f67f724b8635a"
 msgid "སྣང་བ་ བཀོད་པ་ ཆེན་པོ་␣འི་ མནྜལ་ འབུལ་␣༔"
