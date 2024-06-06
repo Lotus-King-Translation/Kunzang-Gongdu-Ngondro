@@ -750,11 +750,11 @@ msgstr "I offer to the place of refuge, the guru and yidam deities. "
 
 msgctxt "ee92af40e0474f9686bde740e45aa19c"
 msgid "ཐུགས་རྗེ་␣ས་ འགྲོ་བ་␣འི་ དོན་ དུ་ བཞེས་ སུ་ གསོལ་␣༔"
-msgstr "Accept it with compassion for the sake of beings. "
+msgstr "Please, accept it with compassion for the sake of beings. "
 
 msgctxt "d30d5c7a0f64400e88bea08d43410ae6"
 msgid "བཞེས་ ནས་ བྱིན་ གྱིས་ བརླབ་པ་␣ར་ མཛད་ དུ་ གསོལ་␣༔"
-msgstr "Having accepted it, please grant your blessing. "
+msgstr "Having accepted, please grant blessings. "
 
 msgctxt "1bf9c5aad952491e91ad70f47ecafbb1"
 msgid ""
