@@ -736,7 +736,9 @@ msgstr "Offer the nirmanakaya mandala of various pleasing things. "
 
 msgctxt "751791243b8f425296f49f74a8b27f7b"
 msgid "སྟོང་གསུམ་ འདི་␣འམ་ སྟོང་གསུམ་ གཞན་དག་ ན་␣༔"
-msgstr "In this or in other universes, "
+msgstr ""
+"In this three-thousand fold [universe] or other pure three-thousand fold "
+"[universes], "
 
 msgctxt "6d463b6ed31f46ba91916050aba29cb0"
 msgid "ལྷ་རྫས་ མཆོག་ གི་ མནྜལ་ བཀོད་པ་ རྣམས་␣༔"
