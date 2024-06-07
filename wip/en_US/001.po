@@ -810,7 +810,7 @@ msgstr "In the space in front, expanse of dazzling five lights,"
 
 msgctxt "f9e45730e824423bbc4f051e11d2803a"
 msgid "སེང་ཁྲི་ པདྨ་ ཉི་ཟླ་␣འི་ གདན་ སྟེང་ དུ །།"
-msgstr "On a seat of sun and moon lotus lion throne,"
+msgstr "Upon a seat of sun and moon lotus lion throne,"
 
 msgctxt "eb906f74123d498b829e929343a0945b"
 msgid "ཁྱབ་བདག་ དྲིན་ཅན་ རྩ་བ་␣འི་ བླ་མ་ ཉིད །།"
