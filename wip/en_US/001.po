@@ -802,7 +802,7 @@ msgstr ""
 
 msgctxt "36a02b95895a474faae0f21621da3267"
 msgid "དད་པ་ གཏིང་ ཚུགས་པ་␣འི་ སྒོ་ ནས །"
-msgstr "Through establishing deep faith."
+msgstr "Through establishing deep faith,"
 
 msgctxt "6ca68b5da17c4f2895e13b712b79fa22"
 msgid "རང་ མདུན་ ནམ་མཁའ་ འོད་ ལྔ་ འཁྲུགས་པ་␣འི་ ཀློང༌ །།"
