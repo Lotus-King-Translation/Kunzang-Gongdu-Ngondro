@@ -818,7 +818,7 @@ msgstr "The sovereign lord, the kind root lama himself, "
 
 msgctxt "76ea970ab79142deb316209541a9d759"
 msgid "མངོན་སུམ་ བཞིན་ དུ་ བཞུགས་པ་␣འི་ སྤྱི་བོ་ ནས །།"
-msgstr "Appearing to be truly present. "
+msgstr "Directly and truly present. From the top of  [his head]:"
 
 msgctxt "241bf88a5c764c3188ef64e0994d59d3"
 msgid "ཡས་ རིམ་བརྒྱུད་པ་␣འི་ བླ་མ་ ཐོ་ བརྩེགས་ བཞུགས །།"
@@ -826,7 +826,7 @@ msgstr "Above his head are the lamas, yidams, "
 
 msgctxt "a8efa04c99274d17aa3310c6aa97e6e2"
 msgid "མཐའ་ བསྐོར་ བླ་མ་ ཡི་དམ་ ཞི་ དང་ ཁྲོ །།"
-msgstr "Peaceful and wrathful ones, "
+msgstr "Surrounding the lamas and yidams, peaceful and wrathful ones, "
 
 msgctxt "e738a173c8f545d99c2cadd3c8b9f741"
 msgid "སངས་རྒྱས་ བྱང་སེམས་ དཔའ་བོ་ མཁའ་འགྲོ་ དང༌ །།"
