@@ -17,7 +17,7 @@ msgid ""
 "༄༅།  ཀུན་བཟང་ དགོངས་པ་ ཀུན་ འདུས་ ཀྱི་ སྔོན་འགྲོ་␣འི་ ངག་འདོན་ བྱང་ཆུབ་ "
 "ལམ་བཟང་ ཞེས་ བྱ་བ་ བཞུགས་ སོ ། །"
 msgstr ""
-"The Liturgy for the Foundational Practice of The Union of Samantabhadra's "
+"The Manual for the Foundational Practice of The Union of Samantabhadra's "
 "Enlightened Intent: The Profound Path of Enlightenment "
 
 msgctxt "33a9d8a91fde4931bb0b39e8ef6e8b82"
