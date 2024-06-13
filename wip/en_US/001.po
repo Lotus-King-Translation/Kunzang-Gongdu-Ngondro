@@ -724,7 +724,7 @@ msgstr ""
 
 msgctxt "48537e991af74eb5b169404b22961934"
 msgid "ཆོས་སྐུ་␣འི་ མནྜལ་ སྟོང་ཉིད་ སྙིང་རྗེ་ འབུལ་␣༔"
-msgstr "Offer the dharmakaya mandala of emptiness and compassion. "
+msgstr "The dharmakaya mandala of emptiness and compassion is offered. "
 
 msgctxt "c6eaaaa9c2814aafaf5e63e2560b7078"
 msgid "ལོངས་སྐུ་␣འི་ མནྜལ་ མ་ འགག་␣ས་ རང་ གསལ་ འབུལ་␣༔"
