@@ -508,7 +508,7 @@ msgstr "Impure appearances disappear and are purified in emptiness. "
 
 msgctxt "d9a8f26356d34882956d1c94dcc340d4"
 msgid "སྟོང་པ་␣འི་ ངང་ ལ་␣ས་ པད་དཀར་ ཟླ་བ་␣འི་ སྟེང༌ །།"
-msgstr "From state of emptiness emptiness, upon a white lotus and a moon, "
+msgstr "From state of emptiness, upon a white lotus and a moon, "
 
 msgctxt "1e43394f93f44198a64f2137416d8be3"
 msgid "རང་སེམས་ ཧཱུྃ་ ཡིག་དཀར་ གསལ་ ཡོངས་ གྱུར་པ །།"
