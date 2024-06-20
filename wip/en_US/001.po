@@ -855,7 +855,9 @@ msgstr ""
 
 msgctxt "f047ce2b59e04711b24bacb0aef2fe11"
 msgid "ཐོགས་མེད་ ཐུགས་རྗེ་ ཡོན་ཏན་ འཕྲིན་ལས་ ཀྱིས །།"
-msgstr "With the activities and qualities of uninhibited compassion, "
+msgstr ""
+"With the qualities and activities [arising as] unobstructed dynamic "
+"radiance, "
 
 msgctxt "468ce3f82c8e480ea613b29162b97c0a"
 msgid "བདག་ རྒྱུད་ བྱིན་ གྱིས་ རློབས་པ་␣འི་ མགོན་ དམ་པ་␣ར །།"
