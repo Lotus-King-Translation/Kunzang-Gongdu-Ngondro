@@ -865,7 +865,7 @@ msgstr "Blessing of the the superior master [enter] my continuum,"
 
 msgctxt "08316a21b4b44ea18b40709c6e5e7888"
 msgid "བརྩེ་བ་␣ས་ དགོངས་ བཞིན་ དགྱེས་པ་␣ས་ བཞུགས་པ་␣ར་ གྱུར །།"
-msgstr "Dwells joyfully thinking of me with loving kindness. "
+msgstr "Abiding delightfully with the intent of loving kindness."
 
 msgctxt "5c33aa22e0b6439fb0aaa0560f7b4939"
 msgid ""
