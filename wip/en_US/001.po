@@ -815,7 +815,7 @@ msgstr "Upon a seat of sun and moon lotus lion throne,"
 
 msgctxt "eb906f74123d498b829e929343a0945b"
 msgid "ཁྱབ་བདག་ དྲིན་ཅན་ རྩ་བ་␣འི་ བླ་མ་ ཉིད །།"
-msgstr "The sovereign lord, the kind root lama himself, "
+msgstr "The presiding master, the kind root lama himself, "
 
 msgctxt "76ea970ab79142deb316209541a9d759"
 msgid "མངོན་སུམ་ བཞིན་ དུ་ བཞུགས་པ་␣འི་ སྤྱི་བོ་ ནས །།"
