@@ -880,7 +880,7 @@ msgctxt "386f9a85c8f54f5fac4fb11454c46246"
 msgid "ཨོཾ་ ཨཱཿ་␣ཧཱུྃ །  རིག་ སྟོང་ ཟུང་འཇུག་ ཀུན་ ཏུ་ བཟང་ ཡབ་ཡུམ །།"
 msgstr ""
 "OM AH HUM\n"
-"Samantabhadra, masculine and feminine, the union of awareness and emptiness, "
+"Samantabhadra, masculine and feminine, the unity of awareness and emptiness, "
 
 msgctxt "75b56e7f62c24c4aafc0262b039bbdcd"
 msgid "བདེ་ལྡན་ ལོངས་སྤྱོད་ རྫོགས་ སྐུ་ རིགས་ ལྔ་␣འི་ ལྷ །།"
