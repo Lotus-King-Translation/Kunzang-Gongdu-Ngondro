@@ -934,7 +934,7 @@ msgstr ""
 
 msgctxt "10e44decc1494d528db83ef286718b56"
 msgid "རྒྱལ་བ་␣འི་ སྲས་ མཆོག་ པདྨ་ ཕྲིན་ལས་ རྩལ །།"
-msgstr "Pema Trinlay, supreme son of the victorious ones, "
+msgstr "Pema Trinlay, supreme son of the victorious ones, རྩལ།།"
 
 msgctxt "65d60eb352674c5bae0f4de79a8358e1"
 msgid "ཤེས་བྱ་ ཀུན་མཁྱེན་ ཚུལ་ཁྲིམས་ རྡོ་རྗེ་␣འི་ ཞབས །།"
