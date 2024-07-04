@@ -970,7 +970,7 @@ msgstr ""
 
 msgctxt "6b8b46909865407ab958fee6eadfb865"
 msgid "པདྨ་ བསྟན་འཛིན་ གྲུབ་མཆོག་ རྡོ་རྗེ་␣འི་ སྡེ །།"
-msgstr "Pema Tenzin Drupchok Dorje, "
+msgstr "Pema Tenzin Drupchok Dorje, སྡེ།། "
 
 msgctxt "1fac5d26267f4091b2ee2814ff507a48"
 msgid "རྒྱལ་དབང་ འགྱུར་མེད་ པདྨ་ ཁྱབ་བདག་ རྗེ །།"
