@@ -1000,7 +1000,9 @@ msgstr "And the guide Kunzang Tenpai Nyima, "
 
 msgctxt "813d6f0d208e4ccdb3740ebc82c122b7"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I supplicate you to accept me, ripen and liberate my being. "
+msgstr ""
+"I supplicate [you] to take hold of me, please ripen and liberate my "
+"continuum."
 
 msgctxt "7ef49089c508420c9798926161ceca79"
 msgid "རྒྱལ་སྲས་ འཇིགས་མེད་ ཚེ་དབང་ ནོར་བུ་␣འི་ དཔལ །།"
