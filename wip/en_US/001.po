@@ -982,7 +982,9 @@ msgstr "and Tenzin Siszhi Nampar Gyalwa, "
 
 msgctxt "54753de6f19c4c3b9e7e831c2e21d69d"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I supplicate you to accept me, ripen and liberate my being. "
+msgstr ""
+"I supplicate [you] to take hold of me, please ripen and liberate my "
+"continuum."
 
 msgctxt "7ccef6cee4e343e8b9262605e2d2a4e9"
 msgid "མི་ འགྱུར་ ལྷུན་གྲུབ་ བདེ་ཆེན་ རྡོ་རྗེ་ རྩལ །།"
