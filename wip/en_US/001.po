@@ -902,7 +902,7 @@ msgstr "The essence of all victorious ones, Orgyen Tötrengtsal, "
 
 msgctxt "dfef486be59f4f0ba536b8359b78409a"
 msgid "མཁའ་སྤྱོད་ ཌཱ་ཀི་ མཁར་ ཆེན་ བཟའ་ མཚོ་ རྒྱལ །།"
-msgstr "Dakini of Kachö, Tsogyal, queen of the great court, "
+msgstr "Dakini of Kachö, [Yeshe] Tsogyal, lady of Garchen, "
 
 msgctxt "a08ae8c321a2463a9a1d0d3027fcdeca"
 msgid "གདམས་པ་␣འི་ བཀའ་ བབས་ ལྷ་ལྕམ་ པདྨ་ གསལ །།"
