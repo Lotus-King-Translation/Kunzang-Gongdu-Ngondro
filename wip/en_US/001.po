@@ -928,7 +928,9 @@ msgstr "And the excellent nirmanakaya, Tenzin Drakpa, "
 
 msgctxt "bfc470de58dd44aab8852322452ac0d2"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I supplicate you to accept me, ripen and liberate my being. "
+msgstr ""
+"I supplicate [you] to take hold of me, please ripen and liberate my "
+"continuum."
 
 msgctxt "10e44decc1494d528db83ef286718b56"
 msgid "རྒྱལ་བ་␣འི་ སྲས་ མཆོག་ པདྨ་ ཕྲིན་ལས་ རྩལ །།"
