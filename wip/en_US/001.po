@@ -1038,7 +1038,9 @@ msgstr "Mamos, dakinis, dharma protectors, and treasure lords, "
 
 msgctxt "e44da13725f64179acbce2c9f5ed2751"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I supplicate you to accept me, ripen and liberate my being. "
+msgstr ""
+"I supplicate [you] to take hold of me, please ripen and liberate my "
+"continuum."
 
 msgctxt "2ea2706dc341443ea2d7e5aa4c92e9f7"
 msgid ""
