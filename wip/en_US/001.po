@@ -1010,7 +1010,7 @@ msgstr "Glorious Jigme Tsewang Norbu, son of the victorious ones, "
 
 msgctxt "520e2c2c73dd467fb18176d5f8d4d5dd"
 msgid "རྡོ་རྗེ་ འཛིན་དབང་ དགེ་འདུན་ རྒྱ་མཚོ་␣འི་ དཔལ །།"
-msgstr "The mighty vajra holder, Gendun Gyamtso, "
+msgstr "The glorious vajra holder, Gendun Gyamtso, "
 
 msgctxt "e6ed9dba9fbe4b69bc7e99725fac0518"
 msgid "རིགས་ ཀུན་ཁྱབ་ བདག་ རྩ་བ་␣འི་ བླ་མ་ ལ །།"
