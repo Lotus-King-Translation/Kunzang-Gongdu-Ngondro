@@ -1018,7 +1018,9 @@ msgstr "And my root lama, sovereign over all the families, "
 
 msgctxt "70db971596ec48c2bfdde8e86215826c"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
-msgstr "I supplicate you to accept me, ripen and liberate my being. "
+msgstr ""
+"I supplicate [you] to take hold of me, please ripen and liberate my "
+"continuum."
 
 msgctxt "6e6ac0d545d14191aa648f6c943e5ea1"
 msgid "ཀུན་བཟང་ ཐུགས་ བཅུད་ དགོངས་པ་ ཀུན་ འདུས་ དང་ །།"
