@@ -1014,7 +1014,7 @@ msgstr "The glorious vajra holder, Gendun Gyamtso, "
 
 msgctxt "e6ed9dba9fbe4b69bc7e99725fac0518"
 msgid "རིགས་ ཀུན་ཁྱབ་ བདག་ རྩ་བ་␣འི་ བླ་མ་ ལ །།"
-msgstr "And my root lama, sovereign over all the families, "
+msgstr "And my root lama, pervading all the families, "
 
 msgctxt "70db971596ec48c2bfdde8e86215826c"
 msgid "གསོལ་འདེབས་ རྗེས་བཟུང་ བདག་ རྒྱུད་ སྨིན་གྲོལ་ གསོལ །།"
