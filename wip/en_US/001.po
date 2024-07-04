@@ -992,7 +992,7 @@ msgstr "Mingyur Lhundrup Dechen Dorje, "
 
 msgctxt "6b4ca53c1ede4aa1994695721b2516fe"
 msgid "མཚུངས་མེད་ ཀུན་བཟང་ རིག་འཛིན་ རྡོ་རྗེ་␣འི་ ཞབས །།"
-msgstr "Unequalled Kunzang Rikdzin Dorje,"
+msgstr "Unequalled Kunzang Rigdzin Dorje,"
 
 msgctxt "3e00801f969d4fbd8856864a304b482c"
 msgid "རྣམ་འདྲེན་ ཀུན་བཟང་ བསྟན་པ་␣འི་ ཉི་མ་ ལ །།"
