@@ -956,7 +956,7 @@ msgstr "Unequalled Tenzin Lekpai Döndrup, "
 
 msgctxt "82621a49fe4a42d1995ff689f33b3f54"
 msgid "ཁྱབ་བདག་ ངག་དབང་ ཀུན་བཟང་ རྡོ་རྗེ་ འཛིན །།"
-msgstr "Sovereign Ngawang Kunzang Dorje, "
+msgstr "All-pervading master Ngawang Kunzang Dorje, "
 
 msgctxt "a4790cbae4ae47a4abd18a31628d0908"
 msgid "ཀུན་བཟང་ འགྱུར་མེད་ མཆོག་ གྲུབ་ དཔལ་འབར་ ལ །།"
