@@ -1234,7 +1234,7 @@ msgstr "Purifying the obscurations of the three gateways. "
 
 msgctxt "847fcb3254154ad0b92b0133be4d9faa"
 msgid "རྡོ་རྗེ་ གསུམ་ གྱི་ བྱིན་རླབས་ སྒོ་གསུམ་ ལ་ ཞུགས །"
-msgstr "The blessing of the three vajras enters my three faculties. "
+msgstr "The blessing of the three vajras, enters the three gateways."
 
 msgctxt "f6576641033f4744ba069e097185c218"
 msgid ""
