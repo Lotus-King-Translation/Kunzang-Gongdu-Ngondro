@@ -1226,7 +1226,7 @@ msgstr ""
 
 msgctxt "f21bb1dab32745c1b0a324cedd3b4150"
 msgid "རང་ གི་ གནས་ གསུམ་ དུ་ ཐིམ །"
-msgstr "Dissolving into one's three places "
+msgstr "Dissolving into one's three places, "
 
 msgctxt "af793e24299c4d6cb13821be49d6c6d4"
 msgid "སྒོ་གསུམ་ གྱི་ སྒྲིབ་པ་ སྦྱངས །"
