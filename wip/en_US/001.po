@@ -1230,7 +1230,7 @@ msgstr "Dissolving into one's three places, "
 
 msgctxt "af793e24299c4d6cb13821be49d6c6d4"
 msgid "སྒོ་གསུམ་ གྱི་ སྒྲིབ་པ་ སྦྱངས །"
-msgstr "And purifies the obscurations of my three faculties. "
+msgstr "Purifying the obscurations of three gateways. "
 
 msgctxt "847fcb3254154ad0b92b0133be4d9faa"
 msgid "རྡོ་རྗེ་ གསུམ་ གྱི་ བྱིན་རླབས་ སྒོ་གསུམ་ ལ་ ཞུགས །"
