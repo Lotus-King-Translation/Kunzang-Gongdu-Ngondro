@@ -1091,7 +1091,7 @@ msgstr "Bless with the realization of the way it is. "
 
 msgctxt "ca845398ec4a4dcfbe5d06d61b2148bb"
 msgid "མཐོང་ རྐྱེན་ རྒྱས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
-msgstr "Bless me with the increase of visions. "
+msgstr "Bless with the increase of visions. "
 
 msgctxt "ce61cb97782d40d48c602fb27362dd0d"
 msgid "སྒྲོན་ བཞི་ ལོངས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
