@@ -1055,7 +1055,7 @@ msgstr ""
 
 msgctxt "ef5381e8231a4151bec3cd9e849b84d4"
 msgid "སྐུ་ དང་ ཐིག་ལེ་␣ར་ ཤིགས་ སེ་ ཤིག་␣༔"
-msgstr "Trembling shimmering forms and spheres. "
+msgstr "Forms and spheres waving about, up and down, round and round."
 
 msgctxt "d49b072d2fe74ff9b646e3c66f861c30"
 msgid "ལུས་ངག་ ཡིད་ གསུམ་ གུས་ཕྱག་ འཚལ་␣༔"
