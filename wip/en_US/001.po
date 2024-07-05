@@ -1045,7 +1045,7 @@ msgstr ""
 msgctxt "2ea2706dc341443ea2d7e5aa4c92e9f7"
 msgid ""
 "ཞེས་ བླ་མ་ བརྒྱུད་པ་␣འི་ གསོལ་འདེབས་ སྔོན་ དུ་ འགྲོ་བ་␣ས །  གཙོ་བོ་␣ར །"
-msgstr "Having first done this lineage supplication, then do the main part: "
+msgstr "Having first done this lineage supplication, [then] the main part: "
 
 msgctxt "e4af14e0e7034add97211a7315bc8449"
 msgid "ཨོཾ་ ཨཱཿ་␣ཧཱུྃ་␣༔  བླ་མ་ འཇའ་ དང་ འོད་ དུ་ འཁྱིལ་ ལི་ ལི་␣༔"
