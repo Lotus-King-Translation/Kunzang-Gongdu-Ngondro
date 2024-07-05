@@ -1125,7 +1125,8 @@ msgstr "Starting with Samantabhadra, all the lamas in turn "
 
 msgctxt "83a778480ac44e7187fbb8b8d474b318"
 msgid "ཡས་ རིམ་ འོད་ཞུ་ བླ་མ་␣འི་ སྐུ་ ལ་ ཐིམ །།"
-msgstr "Dissolve into light and finally absorb into the lama's body. "
+msgstr ""
+"Dissolving up from [Samantabhadra], light melts into the lama's body. "
 
 msgctxt "ae7aaec0184f47c19e547c861e3a1d26"
 msgid "དེ་དག་ ཀུན་ གྱི་ མཁྱེན་བརྩེ་ ནུས་པ་␣འི་ སྟོབས །།"
