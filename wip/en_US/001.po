@@ -1063,15 +1063,15 @@ msgstr "[I] respectfully prostrate with body, speech and mind. "
 
 msgctxt "009e353fac1b495cbe621d39bf10a9fa"
 msgid "རྡོ་རྗེ་␣འི་ སྐུ་ ལ་ གསོལ་བ་ འདེབས་␣༔"
-msgstr "Supplicate the vajra form. "
+msgstr "[I] supplicate the vajra form. "
 
 msgctxt "06f50d6fa03f486f957b18f925376b18"
 msgid "ལུས་ ལ་ བདེ་བ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
-msgstr "Bless my body with bliss. "
+msgstr "Bless my body with ease. "
 
 msgctxt "ad77c07c3c4643f68c81352115ea572d"
 msgid "རྡོ་རྗེ་␣འི་ གསུང་ ལ་ གསོལ་བ་ འདེབས་␣༔"
-msgstr "I supplicate the vajra speech. "
+msgstr "[I] supplicate the vajra speech. "
 
 msgctxt "bc88f7e86b2b42e2b5a13fc11b2af748"
 msgid "ངག་ ལ་ ནུས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
