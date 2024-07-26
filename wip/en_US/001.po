@@ -1315,7 +1315,7 @@ msgstr "The virtue accrued from clearly propagating [this],"
 
 msgctxt "e1cdd87d0c5148b4a70039d9ccbefffe"
 msgid "། སྐན་ ལྡན་ སྨིན་གྲོལ་ དཔལ་ དུ་ ཤོག"
-msgstr "Brings fortunate ones the glory of maturation and liberation."
+msgstr "Endows fortunate ones with the glory of maturation and liberation."
 
 msgctxt "c175b779866040d2a2c468c2ff627bc7"
 msgid ""
