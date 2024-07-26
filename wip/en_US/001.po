@@ -1307,7 +1307,7 @@ msgstr "Dzogchen's Union of Samantabhadra's Enlightened Intent,"
 
 msgctxt "b068498042364107ac83140af0705a22"
 msgid "ཐོགས་མེད་ སྒོ་ བྱེད་ སྔོན་འགྲོ་␣འི་ ཆོས །"
-msgstr "Foundational dharma [of Dzogchen] that initially opens the door."
+msgstr "Foundational dharma that initially opens the door."
 
 msgctxt "9fbac02d333f402aa96b619aa6a20cfd"
 msgid "གསལ་ བདེ་␣ར་ སྤེལ་ ལ་␣ས་ ཐོབ་པ་␣འི་ དགེ"
