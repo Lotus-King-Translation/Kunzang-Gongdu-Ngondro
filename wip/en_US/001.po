@@ -392,7 +392,7 @@ msgid ""
 "དེ་དག་ གི་ ཡོན་ཏན་ དང་ ཐུགས་རྗེ་ དྲན་པ་␣འི་ མོས་གུས་ གདུང་ཤུགས་ དྲག་པོ་␣ས །"
 msgstr ""
 "Through intense, heartfelt devotion that comes from remembering their good "
-"qualities and compassion [supplicate as follows]: "
+"qualities and responsiveness [supplicate as follows]: "
 
 msgctxt "381982c9d28f431ea161e08bf2c52f5f"
 msgid "ན་མོ་␣༔  སྣང་བ་ མ་ བཀོད་ དབྱིངས་ ཀྱི་ ནང་␣༔"
