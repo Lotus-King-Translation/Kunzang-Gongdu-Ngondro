@@ -1269,7 +1269,7 @@ msgstr "Without even a trace of existence left, "
 
 msgctxt "3c5a35a175e141ef95554eca9b971172"
 msgid "ཐམས་ཅད་ སངས་རྒྱས་ མྱུར་ ཐོབ་ ཤོག་␣༔"
-msgstr "And all will quickly attain buddhahood. "
+msgstr "[And] all will quickly attain buddhahood. "
 
 msgctxt "54e4216a37114c46b5c77357ee62a53d"
 msgid "སེམས་ཅན་ རྣམས་ ནི་ ཐམས་ཅད་ ཀྱི་␣༔"
