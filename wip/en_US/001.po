@@ -801,7 +801,7 @@ msgid ""
 msgstr ""
 "2.5. Guru yoga: \n"
 "\n"
-"Depending on the key point of devotion, the interdependence of the profound path, having established the needed trusting faith,"
+"Depending on the key point of devotion, the interdependence of the profound path, having established the [much] needed trusting faith,"
 
 msgctxt "36a02b95895a474faae0f21621da3267"
 msgid "དད་པ་ གཏིང་ ཚུགས་པ་␣འི་ སྒོ་ ནས །"
