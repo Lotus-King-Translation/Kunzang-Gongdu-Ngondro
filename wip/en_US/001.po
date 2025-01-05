@@ -1247,7 +1247,7 @@ msgid ""
 msgstr ""
 "Thinking [that] the enlightened body, speech, and mind of all buddhas and my"
 " body, speech, and mind become inseparable, rest in relaxed uncontrived "
-"self-settled evenness དེ་ཅི་གནས་"
+"self-settled evenness however it abides."
 
 msgctxt "05e75bd14f164c399d0a09d9292d4e5d"
 msgid ""
