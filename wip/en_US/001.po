@@ -1342,7 +1342,7 @@ msgid ""
 "སྔར་ གྱི་ ཆོས་སྤྱོད་ གསུང་རྒྱུན་ དག་ ལ་␣ས་ འཇུག་ བདེ་␣འི་ ངག་འདོན་ བཅུད་ དུ་"
 " དྲིལ་ ཏེ །"
 msgstr ""
-"The oral lineage, dharma practice of the past, was brought together into an "
+"The oral lineage, an ancient dharma practice, was brought together into an "
 "essential easy-to-practice recitation."
 
 msgctxt "5321ee5e48bc497d939c38d747cc18c3"
