@@ -379,7 +379,7 @@ msgstr ""
 
 msgctxt "b3f11a2aa74a4238a6aa0535b45e44bf"
 msgid "བདག་ སོགས་ འགྲོ་ ལ་ བུ་ གཅིག་ མ་ བཞིན་ དུ །།"
-msgstr "To self and all beings, [as mother's] only child,"
+msgstr "To self and all beings, [as a mother to her] only child,"
 
 msgctxt "09236a28c35c4093b30acc748e1684f1"
 msgid "དགྱེས་ ཤིང་ བརྩེ་བ་␣ས་ དགོངས་ ཏེ་ བཞུགས་པ་␣ར་ གྱུར །།"
