@@ -289,7 +289,8 @@ msgstr "Amidst a pure field with its totally complete characteristics,"
 
 msgctxt "36a2534e46ca4cb98ea4fbfe7d9ee2a7"
 msgid "དཔག་བསམ་ སྡོང་པོ་ ཡལ་ག་ ལྔ་ལྡན་པ །།"
-msgstr "Having a wish-fulfilling tree with a trunk and five branches. "
+msgstr ""
+"[There appears] a wish-fulfilling tree with a trunk and five branches. "
 
 msgctxt "4a4da86263b54099b56bb3d30bd5e8c1"
 msgid "ལོ་འདབ་ མེ་ཏོག་ འབྲས་བུ་ ཕུན་ཚོགས་པ་␣ས །།"
