@@ -1254,7 +1254,7 @@ msgid ""
 msgstr ""
 "When emerging from that, oneself and the lama are inseparable. Through the "
 "state of knowing the triad of appearance, sound, and awareness to be the "
-"play of lama's enlightened body, speech, and mind, [recite the 3. "
+"play of lama's enlightened body, speech, and mind, [recite 3. The "
 "Dedication]:"
 
 msgctxt "1b21bc8c891a45c09b970c22486fa119"
