@@ -1,11 +1,11 @@
 # 
 # Translators:
-# Mikko Kotila, 2024
+# Mikko Kotila, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Mikko Kotila, 2024\n"
-"Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/178491/en/)\n"
+"Last-Translator: Mikko Kotila, 2025\n"
+"Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,7 +30,7 @@ msgstr "My one all-encompassing refuge bringing all refuges together,"
 
 msgctxt "d01ecdd51ed447dda551b18ebd393843"
 msgid "། དྲིན་ཅན་ བླ་མ་␣ར་ གུས་ བཏུད་ ནས །"
-msgstr "To lama of great kindness I respectfully bow down."
+msgstr "To lama of great kindness [I] respectfully bow down."
 
 msgctxt "b6830dc4c8dc41e3ad779b56bba84770"
 msgid "། ཀུན་བཟང་ དགོངས་པ་ ཀུན་ འདུས་ ཀྱི །"
