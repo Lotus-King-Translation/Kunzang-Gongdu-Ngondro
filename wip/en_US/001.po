@@ -294,7 +294,7 @@ msgstr ""
 
 msgctxt "4a4da86263b54099b56bb3d30bd5e8c1"
 msgid "ལོ་འདབ་ མེ་ཏོག་ འབྲས་བུ་ ཕུན་ཚོགས་པ་␣ས །།"
-msgstr "By its perfectly complete profuse foliage, flowers and fruit, "
+msgstr "With its perfectly complete foliage, flowers, and fruit, "
 
 msgctxt "e370755319b044b099581033787ebcb1"
 msgid "ནམ་མཁའ་ གང་བ་␣ར་ རབ་ཏུ་ གཏམས་པ་ ཡིས །།"
