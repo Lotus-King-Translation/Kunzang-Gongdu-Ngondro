@@ -603,7 +603,7 @@ msgstr ""
 
 msgctxt "ac6fede85e514a05ba8ec432311d5419"
 msgid "མཐ་␣ར །"
-msgstr "To conclude, [continue]"
+msgstr "To conclude, [continue]:"
 
 msgctxt "19264baaca434b3a9c03f33dd0ad3c57"
 msgid "ལྷ་ སྔགས་ སྣང་ ཆ་␣འི་ དངོས་ ཀུན་ རང་ ལ་ ཐིམ །།"
