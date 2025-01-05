@@ -873,7 +873,7 @@ msgid ""
 "ཅེས་ གསལ་བཏབ་ ལ །  སྤྲོ་ ཞིང་ ནུས་ ན་ གཞུང་ གི་ བླ་བརྒྱུད་ གསོལ་འདེབས་ "
 "རྒྱས་པ་␣འམ །  དཀྱུས་ སུ །"
 msgstr ""
-"Thus clearly establish, if able to and enjoyable, [recite the extensive] "
+"Thus clearly establish. If able to and enjoyable, [recite the extensive] "
 "supplication [to] lineage masters [of the] vast path. [Otherwise, the one "
 "below]."
 
