@@ -1330,7 +1330,7 @@ msgstr ""
 "What has been composed above is with the thought to benefit [those] who "
 "follow this path, the disciples to be tamed, in accordance with the སྡེ་ of "
 "The Ninth Kunzang Pema Nampar Gyalwa, Tenpei Dagpo Gyalse Pema Trinley, [of "
-"the] Gangteng Secret Mantra Dharma Center."
+"the] Gangteng Secret Mantra Dharma Place."
 
 msgctxt "e30ff2fd8439446fb4deb7782eeb47ca"
 msgid ""
