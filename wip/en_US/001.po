@@ -250,7 +250,8 @@ msgstr "All this [become] ease, free from dissatisfaction,"
 
 msgctxt "0c6a0cebc0e84b158a4bf5597698ccc2"
 msgid "འཕགས་པ་␣འི་ བདེ་ ཐོབ་ བཏང་སྙོམས་ ཆེ་␣ར་ འགོད་ ཕྱིར །།"
-msgstr "Obtain supreme ease and ཆེ་ར་འགོད་ཕྱིར equanimity, "
+msgstr ""
+"In order to accomplish supreme ease of the noble ones, great equanimity,"
 
 msgctxt "0a25e70ccdc040c98d0bc046e4bcdd76"
 msgid "ཟབ་ ལམ་ ཉམས་ལེན་ མཐའ་ རུ་ དབྱུང་བ་␣ར་ བགྱི །།"
