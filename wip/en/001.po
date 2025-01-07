@@ -970,7 +970,7 @@ msgstr ""
 
 msgctxt "ad77c07c3c4643f68c81352115ea572d"
 msgid "རྡོ་རྗེ་␣འི་ གསུང་ ལ་ གསོལ་བ་ འདེབས་␣༔"
-msgstr ""
+msgstr "[I] Supplicate to the Vajra Speech,"
 
 msgctxt "bc88f7e86b2b42e2b5a13fc11b2af748"
 msgid "ངག་ ལ་ ནུས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
