@@ -1,10 +1,11 @@
 # 
 # Translators:
 # Mikko Kotila, 2025
+# Tenzin Norgyal, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Mikko Kotila, 2025\n"
+"Last-Translator: Tenzin Norgyal, 2025\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -115,7 +116,7 @@ msgstr ""
 
 msgctxt "de211e72c024465cb112c3746fcd9ef0"
 msgid "ཞེས་ གསོལ་བ་ བཏབ་ མཐ་␣ར །"
-msgstr ""
+msgstr "Thus, having supplicated at the end."
 
 msgctxt "c726714052c94ccda80ef067068ff254"
 msgid ""
