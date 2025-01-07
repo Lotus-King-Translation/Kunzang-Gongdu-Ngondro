@@ -147,7 +147,7 @@ msgstr ""
 
 msgctxt "95b27505a18b411eb5efa5bfcfd20e88"
 msgid "སྐྱེས་བུ་␣ས་ དོན་ སྒྲུབ་ ཐོབ་པ་␣ར་ གྱུར་པ་ ལ །།"
-msgstr ""
+msgstr "For beings who strive to accomplish their aims,"
 
 msgctxt "0ba2fd47d4164cd79f2e8ddbc3482093"
 msgid "གལ་ཏེ་ འདི་ ལ་ ཕན་པ་ མ་ བསྒྲུབ་ ན །།"
