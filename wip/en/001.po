@@ -978,7 +978,7 @@ msgstr ""
 
 msgctxt "fc77f146986f4e7b88223861965e3475"
 msgid "རྡོ་རྗེ་␣འི་ ཐུགས་ ལ་ གསོལ་བ་ འདེབས་␣༔"
-msgstr ""
+msgstr "[I] Supplicate to the Vajra Mind,"
 
 msgctxt "1a43eeb8834a4592931530cb5bf83f06"
 msgid "སེམས་ ལ་ རྟོགས་པ་␣ར་ བྱིན་ གྱིས་ རློབས་␣༔"
