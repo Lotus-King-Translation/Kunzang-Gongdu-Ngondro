@@ -1338,7 +1338,7 @@ msgid ""
 "རིག་འཛིན་ གཏེར་བདག་ གླིང་པ་␣འི་ ཁྲིད་ཡིག་ སྙིང་པོ་ རབ་གསལ་ གྱི་ དགོངས་པ་ "
 "གཞིར་བཟུང །"
 msgstr ""
-"[Using as template] Rigdzin Terdag Lingpa's manual [titled] Nyingpo Rabsel"
+"[Using as template] Rigdzin Terdag Lingpa's manual [titled] Nyingpo Rabsel,"
 
 msgctxt "c655d1e7b6f648d986d7453f33540b25"
 msgid ""
