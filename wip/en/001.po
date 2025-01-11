@@ -1,11 +1,11 @@
 # 
 # Translators:
-# Mikko Kotila, 2025
 # Tenzin Norgyal, 2025
+# Mikko Kotila, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Tenzin Norgyal, 2025\n"
+"Last-Translator: Mikko Kotila, 2025\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/164710/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,8 +18,8 @@ msgid ""
 "༄༅།  ཀུན་བཟང་ དགོངས་པ་ ཀུན་ འདུས་ ཀྱི་ སྔོན་འགྲོ་␣འི་ ངག་འདོན་ བྱང་ཆུབ་ "
 "ལམ་བཟང་ ཞེས་ བྱ་བ་ བཞུགས་ སོ ། །"
 msgstr ""
-"The liturgy for foundational practices of Samantabhadra's Enlightened "
-"Intent: The Profound Path of Enlightenment"
+"The liturgy for foundational practice of Samantabhadra's Enlightened Intent:"
+" The Profound Path of Enlightenment"
 
 msgctxt "33a9d8a91fde4931bb0b39e8ef6e8b82"
 msgid "ཨོཾ་ སྭ་ སྟི །"
