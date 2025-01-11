@@ -1138,7 +1138,7 @@ msgstr "All of their wisdom, love, and power of capabilities,"
 
 msgctxt "f26018c37e154435979bbb425e5ffae6"
 msgid "གཅིག་ བསྡུས་ བདག་ཉིད་ ཆེན་པོ་␣ར་ བཞུགས་པ་ ཡི །།"
-msgstr "All-in-one, abiding as the great self,  "
+msgstr "All-in-one, abiding as Samantabhadra,  "
 
 msgctxt "d4ad14bc43a3405089635f7d37401a48"
 msgid "གནས་ གསུམ་ རྡོ་རྗེ་␣འི་ འབྲུ་ གསུམ་ གྱིས་ མཚན་ གྱུར །།"
