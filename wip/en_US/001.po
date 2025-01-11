@@ -828,7 +828,7 @@ msgstr "Directly and truly present. From the top of [his head]:"
 
 msgctxt "241bf88a5c764c3188ef64e0994d59d3"
 msgid "ཡས་ རིམ་བརྒྱུད་པ་␣འི་ བླ་མ་ ཐོ་ བརྩེགས་ བཞུགས །།"
-msgstr "Above his head are the lamas, yidams, "
+msgstr "Above his head are the lamas [and] yidams, "
 
 msgctxt "a8efa04c99274d17aa3310c6aa97e6e2"
 msgid "མཐའ་ བསྐོར་ བླ་མ་ ཡི་དམ་ ཞི་ དང་ ཁྲོ །།"
