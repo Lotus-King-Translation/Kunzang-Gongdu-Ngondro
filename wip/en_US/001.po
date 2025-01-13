@@ -1173,7 +1173,7 @@ msgstr ""
 
 msgctxt "051084daec3c4852972e220ff6f6f0d7"
 msgid "མགྲིན་པ་␣འི་ ཨཱཿ་␣ལ ས་ འོད་ཟེར་ དམར་པོ་ འཕྲོ་␣ས །"
-msgstr "Red light shines from the AH in the lama's throat, "
+msgstr "Red light shines from the AH in the [lama's] throat, "
 
 msgctxt "618b7da0586e4959b60de1e295c32fb4"
 msgid "རང་ གྱི་ མགྲིན་པ་␣ར་ ཐིམ །"
