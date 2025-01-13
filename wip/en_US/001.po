@@ -1145,7 +1145,7 @@ msgstr "With three places marked with three vajra syllables."
 
 msgctxt "a5e0ea02acb84b4cb490937cabc74d91"
 msgid "ཞེས་ མོས་ ལ་ སླར་ཡང་ གསོལ་བ་ བཏབ་པ་␣ས །"
-msgstr "Imagining that, again supplicate. "
+msgstr "Imagining that, again supplicate: "
 
 msgctxt "c540fefb9a2c4ad38868e75d7de236e6"
 msgid "བླ་མ་␣འི་ དཔྲལ་བ་␣འི་ ཨོཾ་ ལ་␣ས་ འོད་ཟེར་ དཀར་པོ་ འཕྲོ་␣ས །"
