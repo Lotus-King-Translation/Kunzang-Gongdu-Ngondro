@@ -116,7 +116,7 @@ msgstr ""
 
 msgctxt "de211e72c024465cb112c3746fcd9ef0"
 msgid "ཞེས་ གསོལ་བ་ བཏབ་ མཐ་␣ར །"
-msgstr "Thus, having supplicated at the end."
+msgstr "Having thus supplicated, at the end:"
 
 msgctxt "c726714052c94ccda80ef067068ff254"
 msgid ""
