@@ -493,7 +493,7 @@ msgid ""
 "རང་གནས་ ཀྱི་ ཡེ་ཤེས་ མངོན་དུ་ བྱ་␣འོ་ སྙམ་ དུ་ སེམས་ རྩ་ བྲལ་ གྱི་ ངང་ ལ་ "
 "འཇོག་པ་ དོན་དམ་ སེམས་བསྐྱེད་ དོ །"
 msgstr ""
-"Complete, in a state of mind without root, together present with self-"
+"complete, in a state of mind without root, together present with self-"
 "abiding timeless wisdom is the superfactual creation of aspiration. "
 
 msgctxt "d46064e62fcf48d9975c1abaf57a4568"
