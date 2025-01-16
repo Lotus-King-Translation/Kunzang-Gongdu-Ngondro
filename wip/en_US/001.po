@@ -792,7 +792,7 @@ msgstr "All beings course in the pure field. "
 
 msgctxt "1b3859dfbaf24d2f9dfe1f9bea4f6ab1"
 msgid "ཨི་ དམ་ གུ་རུ་ རཏྣ་ མནྜལ་ ཀཾ་ ནིནྱཱ་ ཏ་ ཡཱ་ མི །"
-msgstr "IDAM GURU RATNA MANDALA KAM NINYA TAYA MI"
+msgstr "IDAM GURU RATNA MANDALA KAM NIRYA TAYA MI"
 
 msgctxt "2256ab8b20894cbea105960976d561bd"
 msgid ""
