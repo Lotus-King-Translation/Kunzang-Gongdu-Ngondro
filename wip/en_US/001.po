@@ -801,7 +801,7 @@ msgid ""
 "ལྔ་པ་ བླ་མ་␣འི་ རྣལ་འབྱོར་ ནི །  ཟབ་ ལམ་ གྱི་ རྟེན་འབྲེལ་ མོས་གུས་ ཀྱི་ གནད་"
 " ལ་ བརྟེན་ ནས་ བསྒྲིགས་ དགོས་པ་␣ས་ ན་ ཡིད་ ཁྱེད་ ཤེས་ ཀྱི་"
 msgstr ""
-"2.5. Guru yoga: \n"
+"2.5. Guru yoga \n"
 "\n"
 "Depending on the key point of devotion, the interdependence of the profound path, having established the [much] needed trusting faith,"
 
