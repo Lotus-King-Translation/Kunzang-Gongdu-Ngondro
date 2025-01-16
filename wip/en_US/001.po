@@ -1276,7 +1276,7 @@ msgstr "[And] all will quickly attain buddhahood. "
 
 msgctxt "54e4216a37114c46b5c77357ee62a53d"
 msgid "སེམས་ཅན་ རྣམས་ ནི་ ཐམས་ཅད་ ཀྱི་␣༔"
-msgstr "For all beings, entirely, [the ground] of everything "
+msgstr "For all beings, entirely, [the ground] of everything,"
 
 msgctxt "dba2053a5a8d4912b1424214c9a93ca0"
 msgid "གཞི་ ནི་ ལྷུན་ གྱིས་ གྲུབ་པ་ ལཿ"
