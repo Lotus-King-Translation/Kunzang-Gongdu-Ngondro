@@ -336,7 +336,7 @@ msgstr "Is encircled by a gathering of tathagata buddhas. "
 
 msgctxt "5967fc93ec724075aff27b97a63e65b6"
 msgid "རྒྱབ་ ཀྱི་ ཡལ་ག་␣ར་ དམ་ཆོས་ དཀོན་མཆོག་ ནི །།"
-msgstr "On the rear branch is the holy dharma jewel. "
+msgstr "On the rear branch is the holy dharma jewel, "
 
 msgctxt "ef8040cbab724e18a1f59c20663d824c"
 msgid "གསུང་རབ་ གླེགས་བམ་ བརྩེགས་པ་␣འི་ རྣམ་པ་ ཅན །།"
