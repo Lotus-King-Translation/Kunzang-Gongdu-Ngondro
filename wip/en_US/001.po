@@ -429,7 +429,7 @@ msgstr "Measureless light rays arises from the objects of refuge "
 
 msgctxt "83443bd1ba0e41a4aea7df799d32efb7"
 msgid "སེམས་ཅན་ མ་ ལུས་ དག་པ་␣འི་ ཞིང་ དུ་ དྲངས །།"
-msgstr "And draws all beings without exception to the pure field. "
+msgstr "And draws all karmic beings without exception to the pure field. "
 
 msgctxt "d34323e73a9846af89e21f99a361fe85"
 msgid "སྐྱབས་ཡུལ་ ཐམས་ཅད་ བླ་མ་␣འི་ སྐུ་ ལ་ འདུས །།"
