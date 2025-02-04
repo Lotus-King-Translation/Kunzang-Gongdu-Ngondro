@@ -678,7 +678,7 @@ msgstr "Again array the five heaps. "
 
 msgctxt "50b8c858cf72429482c055c93d3ee5a9"
 msgid "དབྱིངས་ ཀྱི་ དཀྱིལ་འཁོར་ རྣམ་པ་␣ར་ དག་པ་ རུ་␣༔"
-msgstr "In the utterly pure mandala of basic space "
+msgstr "In the utterly pure mandala of basic space,"
 
 msgctxt "937c7efebd3d4236b395f6dba29027be"
 msgid "ཐིག་ལེ་ རང་ གསལ་ འོད་ ཀྱི་ ཚོམ་བུ་ བཀོད་␣༔"
