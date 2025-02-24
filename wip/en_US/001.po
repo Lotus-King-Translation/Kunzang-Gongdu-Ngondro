@@ -233,7 +233,7 @@ msgstr ""
 msgctxt "f8583c5d5f0949fa85ed6b4cc2320831"
 msgid "མཁའ་ཁྱབ་ འགྲོ་ ཀུན་བདག་ གི་ ཕ་མ་ སྟེ །།"
 msgstr ""
-"[1.2.1 The Four Immeasurable]\n"
+"[1.2.2 The Four Immeasurable]\n"
 "My fathers and mothers, all karmic beings pervading space, "
 
 msgctxt "588ae0283bfb4eb293eecb904a59d5fa"
